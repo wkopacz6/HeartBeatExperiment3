@@ -1,0 +1,3 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,marker,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,intro.keys,intro.rt,Answer.keys,Answer.rt,EmpAnswer.keys,EmpAnswer.rt,date,frameRate,expName,session,participant,
+,,,,,,,,,,,,,space,0.619923830032,,,,,2018_Nov_14_1520,59.9862416352,HeartBeat2_1,001,,
+eyes1.png,heart120.wav,playful,comforting,irritated,bored,1,playful,120,0,0,0,0,,,1,3.41886401176,4,3.68477416039,2018_Nov_14_1520,59.9862416352,HeartBeat2_1,001,,

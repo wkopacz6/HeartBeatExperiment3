@@ -1,0 +1,7 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,marker,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,intro.keys,intro.rt,Answer1.keys,Answer1.rt,EmpAnswer.keys,EmpAnswer.rt,participant,session,date,expName,frameRate,
+,,,,,,,,,,,,,space,0.48606861699954607,,,,,w,001,2018_Nov_19_1006,HeartBeat2_2,59.73840908956118,
+eyes1.png,heart120.wav,playful,comforting,irritated,bored,1,playful,120,0,0,0,0,,,1,14.034078258999216,4,2.816288034999161,w,001,2018_Nov_19_1006,HeartBeat2_2,59.73840908956118,
+eyes3.png,silence.wav,joking,flustered,desire,convinced,3,desire,0,0,1,1,1,,,None,,5,0.38199235800129827,w,001,2018_Nov_19_1006,HeartBeat2_2,59.73840908956118,
+eyes5.png,heart120.wav,irritated,sarcastic,worried,friendly,3,worried,120,0,2,2,2,,,4,8.805884549001348,3,2.7634478399995714,w,001,2018_Nov_19_1006,HeartBeat2_2,59.73840908956118,
+eyes6.png,heart60_1.wav,aghast,fantasizing,impatient,alarmed,2,fantasizing,60,0,3,3,3,,,None,,5,0.15616657600185135,w,001,2018_Nov_19_1006,HeartBeat2_2,59.73840908956118,
+eyes7.png,silence.wav,apologetic,friendly,uneasy,dispirited,3,uneasy,0,0,4,4,4,,,3,9.096018534997711,2,1.4834302849994856,w,001,2018_Nov_19_1006,HeartBeat2_2,59.73840908956118,

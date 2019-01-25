@@ -1,0 +1,5 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,marker,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,intro.keys,intro.rt,Answer1.keys,Answer1.rt,EmpAnswer.keys,EmpAnswer.rt,date,frameRate,expName,session,participant,
+,,,,,,,,,,,,,space,29.4056870937,,,,,2018_Nov_19_1221,60.133390681,HeartBeat2_2,001,,
+eyes1.png,heart120_1.wav,playful,comforting,irritated,bored,1,playful,120',0,0,0,0,,,1,5.54996490479,2,1.73337888718,2018_Nov_19_1221,60.133390681,HeartBeat2_2,001,,
+eyes3.png,silence.wav,joking,flustered,desire,convinced,3,desire,Silence,0,1,1,1,,,2,17.0813281536,2,1.62908792496,2018_Nov_19_1221,60.133390681,HeartBeat2_2,001,,
+eyes5.png,heart120_1.wav,irritated,sarcastic,worried,friendly,3,worried,120',0,2,2,2,,,1,18.800153017,1,0.584558010101,2018_Nov_19_1221,60.133390681,HeartBeat2_2,001,,

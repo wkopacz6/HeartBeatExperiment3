@@ -1,0 +1,2566 @@
+{
+  "arch": "x86_64",
+  "build": "py27_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/cogsci/osx-64",
+  "constrains": [],
+  "depends": [
+    "numpy",
+    "python 2.7*"
+  ],
+  "extracted_package_dir": "/Users/walterkopacz/anaconda2/pkgs/pygame-1.9.2a0-py27_0",
+  "features": "",
+  "files": [
+    "include/python2.7/pygame/_camera.h",
+    "include/python2.7/pygame/_pygame.h",
+    "include/python2.7/pygame/_surface.h",
+    "include/python2.7/pygame/bitmask.h",
+    "include/python2.7/pygame/camera.h",
+    "include/python2.7/pygame/fastevents.h",
+    "include/python2.7/pygame/font.h",
+    "include/python2.7/pygame/freetype.h",
+    "include/python2.7/pygame/mask.h",
+    "include/python2.7/pygame/mixer.h",
+    "include/python2.7/pygame/pgarrinter.h",
+    "include/python2.7/pygame/pgbufferproxy.h",
+    "include/python2.7/pygame/pgcompat.h",
+    "include/python2.7/pygame/pgopengl.h",
+    "include/python2.7/pygame/pygame.h",
+    "include/python2.7/pygame/scrap.h",
+    "include/python2.7/pygame/surface.h",
+    "lib/python2.7/site-packages/pygame-1.9.2a0-py2.7.egg-info",
+    "lib/python2.7/site-packages/pygame/LGPL",
+    "lib/python2.7/site-packages/pygame/__init__.py",
+    "lib/python2.7/site-packages/pygame/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/_camera_opencv_highgui.py",
+    "lib/python2.7/site-packages/pygame/_camera_opencv_highgui.pyc",
+    "lib/python2.7/site-packages/pygame/_camera_vidcapture.py",
+    "lib/python2.7/site-packages/pygame/_camera_vidcapture.pyc",
+    "lib/python2.7/site-packages/pygame/_dummybackend.py",
+    "lib/python2.7/site-packages/pygame/_dummybackend.pyc",
+    "lib/python2.7/site-packages/pygame/_freetype.so",
+    "lib/python2.7/site-packages/pygame/_numericsndarray.so",
+    "lib/python2.7/site-packages/pygame/_numericsurfarray.so",
+    "lib/python2.7/site-packages/pygame/_numpysndarray.py",
+    "lib/python2.7/site-packages/pygame/_numpysndarray.pyc",
+    "lib/python2.7/site-packages/pygame/_numpysurfarray.py",
+    "lib/python2.7/site-packages/pygame/_numpysurfarray.pyc",
+    "lib/python2.7/site-packages/pygame/base.so",
+    "lib/python2.7/site-packages/pygame/bufferproxy.so",
+    "lib/python2.7/site-packages/pygame/camera.py",
+    "lib/python2.7/site-packages/pygame/camera.pyc",
+    "lib/python2.7/site-packages/pygame/cdrom.so",
+    "lib/python2.7/site-packages/pygame/color.so",
+    "lib/python2.7/site-packages/pygame/colordict.py",
+    "lib/python2.7/site-packages/pygame/colordict.pyc",
+    "lib/python2.7/site-packages/pygame/compat.py",
+    "lib/python2.7/site-packages/pygame/compat.pyc",
+    "lib/python2.7/site-packages/pygame/constants.so",
+    "lib/python2.7/site-packages/pygame/cursors.py",
+    "lib/python2.7/site-packages/pygame/cursors.pyc",
+    "lib/python2.7/site-packages/pygame/display.so",
+    "lib/python2.7/site-packages/pygame/docs/__init__.py",
+    "lib/python2.7/site-packages/pygame/docs/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/docs/__main__.py",
+    "lib/python2.7/site-packages/pygame/docs/__main__.pyc",
+    "lib/python2.7/site-packages/pygame/docs/logos.html",
+    "lib/python2.7/site-packages/pygame/docs/pygame_logo.gif",
+    "lib/python2.7/site-packages/pygame/docs/pygame_powered.gif",
+    "lib/python2.7/site-packages/pygame/docs/pygame_small.gif",
+    "lib/python2.7/site-packages/pygame/docs/pygame_tiny.gif",
+    "lib/python2.7/site-packages/pygame/docs/ref/docscomments.json",
+    "lib/python2.7/site-packages/pygame/docs/tut/DisplayModes.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/ImportInit.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/MoveIt.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/CameraIntro.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/average.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/background.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/green.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/hsv.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/mask.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/rgb.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/thresh.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/thresholded.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/camera/yuv.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/chimp/ChimpLineByLine.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/chimp/chimp.py.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/chimp/chimpshot.gif",
+    "lib/python2.7/site-packages/pygame/docs/tut/intro/ball.gif",
+    "lib/python2.7/site-packages/pygame/docs/tut/intro/blade.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/intro/freedom.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/intro/intro.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/SurfarrayIntro.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/allblack.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/flipped.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/imgarray.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/redimg.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/scaledown.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/scaleup.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/soften.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/striped.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/surfarray/xfade.jpg",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/MakeGames.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/basic.png",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/event-flowchart.png",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/formulae.png",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/games2.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/games3.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/games4.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/games5.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/games6.html",
+    "lib/python2.7/site-packages/pygame/docs/tut/tom/radians.png",
+    "lib/python2.7/site-packages/pygame/draw.so",
+    "lib/python2.7/site-packages/pygame/event.so",
+    "lib/python2.7/site-packages/pygame/examples/__init__.py",
+    "lib/python2.7/site-packages/pygame/examples/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/examples/aacircle.py",
+    "lib/python2.7/site-packages/pygame/examples/aacircle.pyc",
+    "lib/python2.7/site-packages/pygame/examples/aliens.py",
+    "lib/python2.7/site-packages/pygame/examples/aliens.pyc",
+    "lib/python2.7/site-packages/pygame/examples/arraydemo.py",
+    "lib/python2.7/site-packages/pygame/examples/arraydemo.pyc",
+    "lib/python2.7/site-packages/pygame/examples/blend_fill.py",
+    "lib/python2.7/site-packages/pygame/examples/blend_fill.pyc",
+    "lib/python2.7/site-packages/pygame/examples/blit_blends.py",
+    "lib/python2.7/site-packages/pygame/examples/blit_blends.pyc",
+    "lib/python2.7/site-packages/pygame/examples/camera.py",
+    "lib/python2.7/site-packages/pygame/examples/camera.pyc",
+    "lib/python2.7/site-packages/pygame/examples/chimp.py",
+    "lib/python2.7/site-packages/pygame/examples/chimp.pyc",
+    "lib/python2.7/site-packages/pygame/examples/cursors.py",
+    "lib/python2.7/site-packages/pygame/examples/cursors.pyc",
+    "lib/python2.7/site-packages/pygame/examples/data/alien1.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/alien1.jpg",
+    "lib/python2.7/site-packages/pygame/examples/data/alien1.png",
+    "lib/python2.7/site-packages/pygame/examples/data/alien2.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/alien2.png",
+    "lib/python2.7/site-packages/pygame/examples/data/alien3.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/alien3.png",
+    "lib/python2.7/site-packages/pygame/examples/data/arraydemo.bmp",
+    "lib/python2.7/site-packages/pygame/examples/data/asprite.bmp",
+    "lib/python2.7/site-packages/pygame/examples/data/background.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/blue.mpg",
+    "lib/python2.7/site-packages/pygame/examples/data/bomb.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/boom.wav",
+    "lib/python2.7/site-packages/pygame/examples/data/brick.png",
+    "lib/python2.7/site-packages/pygame/examples/data/car_door.wav",
+    "lib/python2.7/site-packages/pygame/examples/data/chimp.bmp",
+    "lib/python2.7/site-packages/pygame/examples/data/city.png",
+    "lib/python2.7/site-packages/pygame/examples/data/danger.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/explosion1.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/fist.bmp",
+    "lib/python2.7/site-packages/pygame/examples/data/house_lo.mp3",
+    "lib/python2.7/site-packages/pygame/examples/data/house_lo.ogg",
+    "lib/python2.7/site-packages/pygame/examples/data/house_lo.wav",
+    "lib/python2.7/site-packages/pygame/examples/data/liquid.bmp",
+    "lib/python2.7/site-packages/pygame/examples/data/midikeys.png",
+    "lib/python2.7/site-packages/pygame/examples/data/oldplayer.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/player1.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/punch.wav",
+    "lib/python2.7/site-packages/pygame/examples/data/sans.ttf",
+    "lib/python2.7/site-packages/pygame/examples/data/secosmic_lo.wav",
+    "lib/python2.7/site-packages/pygame/examples/data/shot.gif",
+    "lib/python2.7/site-packages/pygame/examples/data/static.png",
+    "lib/python2.7/site-packages/pygame/examples/data/whiff.wav",
+    "lib/python2.7/site-packages/pygame/examples/data/yuv_1.pgm",
+    "lib/python2.7/site-packages/pygame/examples/eventlist.py",
+    "lib/python2.7/site-packages/pygame/examples/eventlist.pyc",
+    "lib/python2.7/site-packages/pygame/examples/fastevents.py",
+    "lib/python2.7/site-packages/pygame/examples/fastevents.pyc",
+    "lib/python2.7/site-packages/pygame/examples/fonty.py",
+    "lib/python2.7/site-packages/pygame/examples/fonty.pyc",
+    "lib/python2.7/site-packages/pygame/examples/freetype_misc.py",
+    "lib/python2.7/site-packages/pygame/examples/freetype_misc.pyc",
+    "lib/python2.7/site-packages/pygame/examples/glcube.py",
+    "lib/python2.7/site-packages/pygame/examples/glcube.pyc",
+    "lib/python2.7/site-packages/pygame/examples/headless_no_windows_needed.py",
+    "lib/python2.7/site-packages/pygame/examples/headless_no_windows_needed.pyc",
+    "lib/python2.7/site-packages/pygame/examples/liquid.py",
+    "lib/python2.7/site-packages/pygame/examples/liquid.pyc",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/JavaCompiling.plist",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/_MainMenu_EOArchive_English.java",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/classes.nib",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/info.nib",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/keyedobjects.nib",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/aliens.icns",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/README.txt",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/aliens.py",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/aliens.pyc",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/setup.py",
+    "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/setup.pyc",
+    "lib/python2.7/site-packages/pygame/examples/macosx/macfont.py",
+    "lib/python2.7/site-packages/pygame/examples/macosx/macfont.pyc",
+    "lib/python2.7/site-packages/pygame/examples/mask.py",
+    "lib/python2.7/site-packages/pygame/examples/mask.pyc",
+    "lib/python2.7/site-packages/pygame/examples/midi.py",
+    "lib/python2.7/site-packages/pygame/examples/midi.pyc",
+    "lib/python2.7/site-packages/pygame/examples/moveit.py",
+    "lib/python2.7/site-packages/pygame/examples/moveit.pyc",
+    "lib/python2.7/site-packages/pygame/examples/oldalien.py",
+    "lib/python2.7/site-packages/pygame/examples/oldalien.pyc",
+    "lib/python2.7/site-packages/pygame/examples/overlay.py",
+    "lib/python2.7/site-packages/pygame/examples/overlay.pyc",
+    "lib/python2.7/site-packages/pygame/examples/pixelarray.py",
+    "lib/python2.7/site-packages/pygame/examples/pixelarray.pyc",
+    "lib/python2.7/site-packages/pygame/examples/playmus.py",
+    "lib/python2.7/site-packages/pygame/examples/playmus.pyc",
+    "lib/python2.7/site-packages/pygame/examples/prevent_display_stretching.py",
+    "lib/python2.7/site-packages/pygame/examples/prevent_display_stretching.pyc",
+    "lib/python2.7/site-packages/pygame/examples/scaletest.py",
+    "lib/python2.7/site-packages/pygame/examples/scaletest.pyc",
+    "lib/python2.7/site-packages/pygame/examples/scrap_clipboard.py",
+    "lib/python2.7/site-packages/pygame/examples/scrap_clipboard.pyc",
+    "lib/python2.7/site-packages/pygame/examples/scroll.py",
+    "lib/python2.7/site-packages/pygame/examples/scroll.pyc",
+    "lib/python2.7/site-packages/pygame/examples/sound.py",
+    "lib/python2.7/site-packages/pygame/examples/sound.pyc",
+    "lib/python2.7/site-packages/pygame/examples/sound_array_demos.py",
+    "lib/python2.7/site-packages/pygame/examples/sound_array_demos.pyc",
+    "lib/python2.7/site-packages/pygame/examples/stars.py",
+    "lib/python2.7/site-packages/pygame/examples/stars.pyc",
+    "lib/python2.7/site-packages/pygame/examples/testsprite.py",
+    "lib/python2.7/site-packages/pygame/examples/testsprite.pyc",
+    "lib/python2.7/site-packages/pygame/examples/vgrade.py",
+    "lib/python2.7/site-packages/pygame/examples/vgrade.pyc",
+    "lib/python2.7/site-packages/pygame/fastevent.so",
+    "lib/python2.7/site-packages/pygame/font.so",
+    "lib/python2.7/site-packages/pygame/freesansbold.ttf",
+    "lib/python2.7/site-packages/pygame/freetype.py",
+    "lib/python2.7/site-packages/pygame/freetype.pyc",
+    "lib/python2.7/site-packages/pygame/ftfont.py",
+    "lib/python2.7/site-packages/pygame/ftfont.pyc",
+    "lib/python2.7/site-packages/pygame/gfxdraw.so",
+    "lib/python2.7/site-packages/pygame/gp2x/__init__.py",
+    "lib/python2.7/site-packages/pygame/gp2x/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/gp2x/constants.py",
+    "lib/python2.7/site-packages/pygame/gp2x/constants.pyc",
+    "lib/python2.7/site-packages/pygame/gp2x/locals.py",
+    "lib/python2.7/site-packages/pygame/gp2x/locals.pyc",
+    "lib/python2.7/site-packages/pygame/image.so",
+    "lib/python2.7/site-packages/pygame/imageext.so",
+    "lib/python2.7/site-packages/pygame/install.html",
+    "lib/python2.7/site-packages/pygame/joystick.so",
+    "lib/python2.7/site-packages/pygame/key.so",
+    "lib/python2.7/site-packages/pygame/locals.py",
+    "lib/python2.7/site-packages/pygame/locals.pyc",
+    "lib/python2.7/site-packages/pygame/macosx.py",
+    "lib/python2.7/site-packages/pygame/macosx.pyc",
+    "lib/python2.7/site-packages/pygame/mask.so",
+    "lib/python2.7/site-packages/pygame/math.so",
+    "lib/python2.7/site-packages/pygame/midi.py",
+    "lib/python2.7/site-packages/pygame/midi.pyc",
+    "lib/python2.7/site-packages/pygame/mixer.so",
+    "lib/python2.7/site-packages/pygame/mixer_music.so",
+    "lib/python2.7/site-packages/pygame/mouse.so",
+    "lib/python2.7/site-packages/pygame/newbuffer.so",
+    "lib/python2.7/site-packages/pygame/overlay.so",
+    "lib/python2.7/site-packages/pygame/pixelarray.so",
+    "lib/python2.7/site-packages/pygame/pixelcopy.so",
+    "lib/python2.7/site-packages/pygame/pkgdata.py",
+    "lib/python2.7/site-packages/pygame/pkgdata.pyc",
+    "lib/python2.7/site-packages/pygame/pygame.ico",
+    "lib/python2.7/site-packages/pygame/pygame_icon.bmp",
+    "lib/python2.7/site-packages/pygame/pygame_icon.icns",
+    "lib/python2.7/site-packages/pygame/pygame_icon.svg",
+    "lib/python2.7/site-packages/pygame/pygame_icon.tiff",
+    "lib/python2.7/site-packages/pygame/pypm.so",
+    "lib/python2.7/site-packages/pygame/readme.html",
+    "lib/python2.7/site-packages/pygame/rect.so",
+    "lib/python2.7/site-packages/pygame/rwobject.so",
+    "lib/python2.7/site-packages/pygame/scrap.so",
+    "lib/python2.7/site-packages/pygame/sdlmain_osx.so",
+    "lib/python2.7/site-packages/pygame/sndarray.py",
+    "lib/python2.7/site-packages/pygame/sndarray.pyc",
+    "lib/python2.7/site-packages/pygame/sprite.py",
+    "lib/python2.7/site-packages/pygame/sprite.pyc",
+    "lib/python2.7/site-packages/pygame/surface.so",
+    "lib/python2.7/site-packages/pygame/surfarray.py",
+    "lib/python2.7/site-packages/pygame/surfarray.pyc",
+    "lib/python2.7/site-packages/pygame/surflock.so",
+    "lib/python2.7/site-packages/pygame/sysfont.py",
+    "lib/python2.7/site-packages/pygame/sysfont.pyc",
+    "lib/python2.7/site-packages/pygame/tests/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/__main__.py",
+    "lib/python2.7/site-packages/pygame/tests/__main__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/base_test.py",
+    "lib/python2.7/site-packages/pygame/tests/base_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/blit_test.py",
+    "lib/python2.7/site-packages/pygame/tests/blit_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/bufferproxy_test.py",
+    "lib/python2.7/site-packages/pygame/tests/bufferproxy_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/camera_test.py",
+    "lib/python2.7/site-packages/pygame/tests/camera_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/cdrom_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/cdrom_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/cdrom_test.py",
+    "lib/python2.7/site-packages/pygame/tests/cdrom_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/color_test.py",
+    "lib/python2.7/site-packages/pygame/tests/color_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/compat_test.py",
+    "lib/python2.7/site-packages/pygame/tests/compat_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/cursors_test.py",
+    "lib/python2.7/site-packages/pygame/tests/cursors_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/display_test.py",
+    "lib/python2.7/site-packages/pygame/tests/display_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/draw_test.py",
+    "lib/python2.7/site-packages/pygame/tests/draw_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/event_test.py",
+    "lib/python2.7/site-packages/pygame/tests/event_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/fastevent_test.py",
+    "lib/python2.7/site-packages/pygame/tests/fastevent_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/PyGameMono-18-100dpi.bdf",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/PyGameMono-18-75dpi.bdf",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/PyGameMono-8.bdf",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/PyGameMono.otf",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/test_fixed.otf",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/test_sans.ttf",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing.xbm",
+    "lib/python2.7/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing_mask.xbm",
+    "lib/python2.7/site-packages/pygame/tests/font_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/font_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/font_test.py",
+    "lib/python2.7/site-packages/pygame/tests/font_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/freetype_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/freetype_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/freetype_test.py",
+    "lib/python2.7/site-packages/pygame/tests/freetype_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/ftfont_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/ftfont_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/ftfont_test.py",
+    "lib/python2.7/site-packages/pygame/tests/ftfont_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/gfxdraw_test.py",
+    "lib/python2.7/site-packages/pygame/tests/gfxdraw_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/image__save_gl_surface_test.py",
+    "lib/python2.7/site-packages/pygame/tests/image__save_gl_surface_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/image_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/image_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/image_test.py",
+    "lib/python2.7/site-packages/pygame/tests/image_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/imageext_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/imageext_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/imageext_test.py",
+    "lib/python2.7/site-packages/pygame/tests/imageext_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/joystick_test.py",
+    "lib/python2.7/site-packages/pygame/tests/joystick_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/key_test.py",
+    "lib/python2.7/site-packages/pygame/tests/key_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/mask_test.py",
+    "lib/python2.7/site-packages/pygame/tests/mask_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/math_test.py",
+    "lib/python2.7/site-packages/pygame/tests/math_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/midi_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/midi_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/midi_test.py",
+    "lib/python2.7/site-packages/pygame/tests/midi_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/mixer_music_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/mixer_music_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/mixer_music_test.py",
+    "lib/python2.7/site-packages/pygame/tests/mixer_music_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/mixer_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/mixer_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/mixer_test.py",
+    "lib/python2.7/site-packages/pygame/tests/mixer_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/mouse_test.py",
+    "lib/python2.7/site-packages/pygame/tests/mouse_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/overlay_test.py",
+    "lib/python2.7/site-packages/pygame/tests/overlay_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/pixelarray_test.py",
+    "lib/python2.7/site-packages/pygame/tests/pixelarray_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/pixelcopy_test.py",
+    "lib/python2.7/site-packages/pygame/tests/pixelcopy_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/rect_test.py",
+    "lib/python2.7/site-packages/pygame/tests/rect_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_3_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_3_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_4_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_4_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_5_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_5_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_6_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_6_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/no_assertions__ret_code_of_1__test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/no_assertions__ret_code_of_1__test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/zero_tests_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/zero_tests_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/incomplete_todo_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/incomplete_todo_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/magic_tag_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/magic_tag_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/sleep_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/sleep_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/invisible_tag_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/invisible_tag_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/magic_tag_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/magic_tag_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_3_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_3_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_4_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_4_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/fake_3_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/fake_3_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_3_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_3_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_1_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_1_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_3_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_3_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_4_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_4_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_3_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_3_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_4_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_4_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/run_tests__test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/run_tests__test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/fake_2_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/fake_2_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/sleep_test.py",
+    "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/sleep_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/rwobject_test.py",
+    "lib/python2.7/site-packages/pygame/tests/rwobject_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/scrap_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/scrap_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/scrap_test.py",
+    "lib/python2.7/site-packages/pygame/tests/scrap_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/sndarray_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/sndarray_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/sndarray_test.py",
+    "lib/python2.7/site-packages/pygame/tests/sndarray_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/sprite_test.py",
+    "lib/python2.7/site-packages/pygame/tests/sprite_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/surface_test.py",
+    "lib/python2.7/site-packages/pygame/tests/surface_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/surfarray_tags.py",
+    "lib/python2.7/site-packages/pygame/tests/surfarray_tags.pyc",
+    "lib/python2.7/site-packages/pygame/tests/surfarray_test.py",
+    "lib/python2.7/site-packages/pygame/tests/surfarray_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/surflock_test.py",
+    "lib/python2.7/site-packages/pygame/tests/surflock_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/sysfont_test.py",
+    "lib/python2.7/site-packages/pygame/tests/sysfont_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_test_.py",
+    "lib/python2.7/site-packages/pygame/tests/test_test_.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/__init__.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/arrinter.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/arrinter.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/async_sub.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/async_sub.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/buftools.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/buftools.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/endian.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/endian.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/png.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/png.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/run_tests.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/run_tests.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/test_runner.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/test_runner.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/unittest.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/unittest.pyc",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/unittest_patch.py",
+    "lib/python2.7/site-packages/pygame/tests/test_utils/unittest_patch.pyc",
+    "lib/python2.7/site-packages/pygame/tests/threads_test.py",
+    "lib/python2.7/site-packages/pygame/tests/threads_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/time_test.py",
+    "lib/python2.7/site-packages/pygame/tests/time_test.pyc",
+    "lib/python2.7/site-packages/pygame/tests/transform_test.py",
+    "lib/python2.7/site-packages/pygame/tests/transform_test.pyc",
+    "lib/python2.7/site-packages/pygame/threads/Py25Queue.py",
+    "lib/python2.7/site-packages/pygame/threads/Py25Queue.pyc",
+    "lib/python2.7/site-packages/pygame/threads/__init__.py",
+    "lib/python2.7/site-packages/pygame/threads/__init__.pyc",
+    "lib/python2.7/site-packages/pygame/time.so",
+    "lib/python2.7/site-packages/pygame/transform.so",
+    "lib/python2.7/site-packages/pygame/version.py",
+    "lib/python2.7/site-packages/pygame/version.pyc"
+  ],
+  "fn": "pygame-1.9.2a0-py27_0.tar.bz2",
+  "license": "LGPL",
+  "link": {
+    "source": "/Users/walterkopacz/anaconda2/pkgs/pygame-1.9.2a0-py27_0",
+    "type": 1
+  },
+  "md5": "e29fc33ac5c7f7f5b618dd86296510bb",
+  "name": "pygame",
+  "package_tarball_full_path": "/Users/walterkopacz/anaconda2/pkgs/pygame-1.9.2a0-py27_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/python2.7/pygame/_camera.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/_pygame.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/_surface.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/bitmask.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/camera.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/fastevents.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/font.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/freetype.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/mask.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/mixer.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/pgarrinter.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/pgbufferproxy.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/pgcompat.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/pgopengl.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/pygame.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/scrap.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/python2.7/pygame/surface.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame-1.9.2a0-py2.7.egg-info",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/LGPL",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_camera_opencv_highgui.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_camera_opencv_highgui.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_camera_vidcapture.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_camera_vidcapture.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_dummybackend.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_dummybackend.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_freetype.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_numericsndarray.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_numericsurfarray.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_numpysndarray.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_numpysndarray.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_numpysurfarray.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/_numpysurfarray.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/base.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/bufferproxy.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/camera.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/camera.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/cdrom.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/color.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/colordict.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/colordict.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/compat.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/compat.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/constants.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/cursors.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/cursors.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/display.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/__main__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/__main__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/logos.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/pygame_logo.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/pygame_powered.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/pygame_small.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/pygame_tiny.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/ref/docscomments.json",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/DisplayModes.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/ImportInit.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/MoveIt.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/CameraIntro.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/average.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/background.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/green.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/hsv.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/mask.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/rgb.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/thresh.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/thresholded.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/camera/yuv.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/chimp/ChimpLineByLine.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/chimp/chimp.py.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/chimp/chimpshot.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/intro/ball.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/intro/blade.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/intro/freedom.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/intro/intro.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/SurfarrayIntro.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/allblack.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/flipped.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/imgarray.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/redimg.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/scaledown.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/scaleup.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/soften.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/striped.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/surfarray/xfade.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/MakeGames.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/basic.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/event-flowchart.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/formulae.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/games2.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/games3.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/games4.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/games5.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/games6.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/docs/tut/tom/radians.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/draw.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/event.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/aacircle.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/aacircle.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/aliens.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/aliens.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/arraydemo.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/arraydemo.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/blend_fill.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/blend_fill.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/blit_blends.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/blit_blends.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/camera.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/camera.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/chimp.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/chimp.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/cursors.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/cursors.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/alien1.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/alien1.jpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/alien1.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/alien2.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/alien2.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/alien3.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/alien3.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/arraydemo.bmp",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/asprite.bmp",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/background.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/blue.mpg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/bomb.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/boom.wav",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/brick.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/car_door.wav",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/chimp.bmp",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/city.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/danger.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/explosion1.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/fist.bmp",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/house_lo.mp3",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/house_lo.ogg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/house_lo.wav",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/liquid.bmp",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/midikeys.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/oldplayer.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/player1.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/punch.wav",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/sans.ttf",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/secosmic_lo.wav",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/shot.gif",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/static.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/whiff.wav",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/data/yuv_1.pgm",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/eventlist.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/eventlist.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/fastevents.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/fastevents.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/fonty.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/fonty.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/freetype_misc.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/freetype_misc.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/glcube.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/glcube.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/headless_no_windows_needed.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/headless_no_windows_needed.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/liquid.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/liquid.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/JavaCompiling.plist",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/_MainMenu_EOArchive_English.java",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/classes.nib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/info.nib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/keyedobjects.nib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/aliens.icns",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/README.txt",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/aliens.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/aliens.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/setup.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/aliens_app_example/setup.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/macfont.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/macosx/macfont.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/mask.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/mask.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/midi.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/midi.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/moveit.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/moveit.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/oldalien.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/oldalien.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/overlay.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/overlay.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/pixelarray.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/pixelarray.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/playmus.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/playmus.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/prevent_display_stretching.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/prevent_display_stretching.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/scaletest.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/scaletest.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/scrap_clipboard.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/scrap_clipboard.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/scroll.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/scroll.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/sound.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/sound.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/sound_array_demos.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/sound_array_demos.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/stars.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/stars.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/testsprite.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/testsprite.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/vgrade.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/examples/vgrade.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/fastevent.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/font.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/freesansbold.ttf",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/freetype.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/freetype.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/ftfont.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/ftfont.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/gfxdraw.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/gp2x/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/gp2x/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/gp2x/constants.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/gp2x/constants.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/gp2x/locals.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/gp2x/locals.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/image.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/imageext.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/install.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/joystick.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/key.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/locals.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/locals.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/macosx.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/macosx.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/mask.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/math.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/midi.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/midi.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/mixer.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/mixer_music.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/mouse.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/newbuffer.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/overlay.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pixelarray.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pixelcopy.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pkgdata.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pkgdata.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pygame.ico",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pygame_icon.bmp",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pygame_icon.icns",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pygame_icon.svg",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pygame_icon.tiff",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/pypm.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/readme.html",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/rect.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/rwobject.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/scrap.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/sdlmain_osx.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/sndarray.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/sndarray.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/sprite.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/sprite.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/surface.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/surfarray.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/surfarray.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/surflock.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/sysfont.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/sysfont.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/__main__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/__main__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/base_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/base_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/blit_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/blit_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/bufferproxy_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/bufferproxy_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/camera_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/camera_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/cdrom_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/cdrom_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/cdrom_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/cdrom_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/color_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/color_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/compat_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/compat_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/cursors_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/cursors_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/display_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/display_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/draw_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/draw_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/event_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/event_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fastevent_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fastevent_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/PyGameMono-18-100dpi.bdf",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/PyGameMono-18-75dpi.bdf",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/PyGameMono-8.bdf",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/PyGameMono.otf",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/test_fixed.otf",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/test_sans.ttf",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing.xbm",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing_mask.xbm",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/font_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/font_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/font_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/font_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/freetype_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/freetype_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/freetype_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/freetype_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/ftfont_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/ftfont_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/ftfont_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/ftfont_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/gfxdraw_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/gfxdraw_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/image__save_gl_surface_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/image__save_gl_surface_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/image_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/image_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/image_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/image_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/imageext_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/imageext_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/imageext_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/imageext_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/joystick_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/joystick_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/key_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/key_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mask_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mask_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/math_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/math_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/midi_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/midi_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/midi_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/midi_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mixer_music_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mixer_music_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mixer_music_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mixer_music_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mixer_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mixer_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mixer_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mixer_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mouse_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/mouse_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/overlay_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/overlay_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/pixelarray_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/pixelarray_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/pixelcopy_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/pixelcopy_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/rect_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/rect_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_3_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_3_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_4_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_4_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_5_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_5_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_6_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/fake_6_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/no_assertions__ret_code_of_1__test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/no_assertions__ret_code_of_1__test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/zero_tests_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/all_ok/zero_tests_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/incomplete_todo_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/incomplete_todo_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/magic_tag_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/magic_tag_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/sleep_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/everything/sleep_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/invisible_tag_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/invisible_tag_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/magic_tag_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/exclude/magic_tag_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_3_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_3_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_4_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/failures1/fake_4_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/fake_3_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete/fake_3_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_3_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_3_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_1_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_1_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_3_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_3_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_4_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_4_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_3_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_3_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_4_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_4_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/run_tests__test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/run_tests__test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/fake_2_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/fake_2_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/sleep_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/run_tests__tests/timeout/sleep_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/rwobject_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/rwobject_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/scrap_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/scrap_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/scrap_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/scrap_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/sndarray_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/sndarray_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/sndarray_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/sndarray_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/sprite_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/sprite_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/surface_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/surface_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/surfarray_tags.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/surfarray_tags.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/surfarray_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/surfarray_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/surflock_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/surflock_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/sysfont_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/sysfont_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_test_.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_test_.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/arrinter.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/arrinter.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/async_sub.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/async_sub.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/buftools.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/buftools.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/endian.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/endian.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/png.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/png.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/run_tests.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/run_tests.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/test_runner.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/test_runner.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/unittest.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/unittest.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/unittest_patch.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/test_utils/unittest_patch.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/threads_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/threads_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/time_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/time_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/transform_test.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/tests/transform_test.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/threads/Py25Queue.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/threads/Py25Queue.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/threads/__init__.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/threads/__init__.pyc",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/time.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/transform.so",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/version.py",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/python2.7/site-packages/pygame/version.pyc",
+        "path_type": "hardlink"
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "pygame",
+  "size": 2706192,
+  "subdir": "osx-64",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/cogsci/osx-64/pygame-1.9.2a0-py27_0.tar.bz2",
+  "version": "1.9.2a0"
+}

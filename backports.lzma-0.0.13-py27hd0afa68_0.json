@@ -1,0 +1,74 @@
+{
+  "arch": "x86_64",
+  "build": "py27hd0afa68_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "backports",
+    "future",
+    "python >=2.7,<2.8.0a0",
+    "xz >=5.2.4,<6.0a0"
+  ],
+  "extracted_package_dir": "/Users/walterkopacz/anaconda2/pkgs/backports.lzma-0.0.13-py27hd0afa68_0",
+  "features": "",
+  "files": [
+    "lib/python2.7/site-packages/backports.lzma-0.0.13-py2.7.egg-info",
+    "lib/python2.7/site-packages/backports/lzma/__init__.py",
+    "lib/python2.7/site-packages/backports/lzma/__init__.pyc",
+    "lib/python2.7/site-packages/backports/lzma/_lzma.so"
+  ],
+  "fn": "backports.lzma-0.0.13-py27hd0afa68_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/walterkopacz/anaconda2/pkgs/backports.lzma-0.0.13-py27hd0afa68_0",
+    "type": 1
+  },
+  "md5": "87214349d112c2899b605980a37a2d94",
+  "name": "backports.lzma",
+  "package_tarball_full_path": "/Users/walterkopacz/anaconda2/pkgs/backports.lzma-0.0.13-py27hd0afa68_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python2.7/site-packages/backports.lzma-0.0.13-py2.7.egg-info",
+        "path_type": "hardlink",
+        "sha256": "b1da282512ce697a737574b690c049c045b195bee9f2c1c24c3c7622c215774f",
+        "sha256_in_prefix": "b1da282512ce697a737574b690c049c045b195bee9f2c1c24c3c7622c215774f",
+        "size_in_bytes": 13392
+      },
+      {
+        "_path": "lib/python2.7/site-packages/backports/lzma/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "92fb990b8fddd7b831a4bee4ed2f4819bcbf1f33ad86e39684ca9e37f759f6f5",
+        "sha256_in_prefix": "92fb990b8fddd7b831a4bee4ed2f4819bcbf1f33ad86e39684ca9e37f759f6f5",
+        "size_in_bytes": 17972
+      },
+      {
+        "_path": "lib/python2.7/site-packages/backports/lzma/__init__.pyc",
+        "path_type": "hardlink",
+        "sha256": "565f9a0d858364915e1b333a8eebcbcf5542afab10dae5bada4cc9dae9fdf263",
+        "sha256_in_prefix": "565f9a0d858364915e1b333a8eebcbcf5542afab10dae5bada4cc9dae9fdf263",
+        "size_in_bytes": 16473
+      },
+      {
+        "_path": "lib/python2.7/site-packages/backports/lzma/_lzma.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/1d797458-ad1f-47af-5034-b2a75e75dd82/volume/backports.lzma_1535545193276/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "bf26a0eb2bae68ae417b76c107595e1116aa414c77bf356dbd7ea6b86038d992",
+        "sha256_in_prefix": "42127213fa261b93efc7bee8f145a8bac6d7599ee340f01bd7d5c80a1aa63606",
+        "size_in_bytes": 31512
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 43617,
+  "subdir": "osx-64",
+  "timestamp": 1535545296080,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/backports.lzma-0.0.13-py27hd0afa68_0.tar.bz2",
+  "version": "0.0.13"
+}

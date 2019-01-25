@@ -1,0 +1,343 @@
+{
+  "arch": "x86_64",
+  "build": "hcb84e12_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "jpeg >=9b,<10a",
+    "libcxx >=4.0.1",
+    "xz >=5.2.4,<6.0a0",
+    "zlib >=1.2.11,<1.3.0a0"
+  ],
+  "extracted_package_dir": "/Users/walterkopacz/anaconda2/pkgs/libtiff-4.0.9-hcb84e12_2",
+  "features": "",
+  "files": [
+    "bin/fax2ps",
+    "bin/fax2tiff",
+    "bin/pal2rgb",
+    "bin/ppm2tiff",
+    "bin/raw2tiff",
+    "bin/tiff2bw",
+    "bin/tiff2pdf",
+    "bin/tiff2ps",
+    "bin/tiff2rgba",
+    "bin/tiffcmp",
+    "bin/tiffcp",
+    "bin/tiffcrop",
+    "bin/tiffdither",
+    "bin/tiffdump",
+    "bin/tiffinfo",
+    "bin/tiffmedian",
+    "bin/tiffset",
+    "bin/tiffsplit",
+    "include/tiff.h",
+    "include/tiffconf.h",
+    "include/tiffio.h",
+    "include/tiffio.hxx",
+    "include/tiffvers.h",
+    "lib/libtiff.5.dylib",
+    "lib/libtiff.a",
+    "lib/libtiff.dylib",
+    "lib/libtiff.la",
+    "lib/libtiffxx.5.dylib",
+    "lib/libtiffxx.a",
+    "lib/libtiffxx.dylib",
+    "lib/libtiffxx.la",
+    "lib/pkgconfig/libtiff-4.pc"
+  ],
+  "fn": "libtiff-4.0.9-hcb84e12_2.tar.bz2",
+  "license": "HPND",
+  "link": {
+    "source": "/Users/walterkopacz/anaconda2/pkgs/libtiff-4.0.9-hcb84e12_2",
+    "type": 1
+  },
+  "md5": "4f3d3fc7c5053b526201672974726d57",
+  "name": "libtiff",
+  "package_tarball_full_path": "/Users/walterkopacz/anaconda2/pkgs/libtiff-4.0.9-hcb84e12_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/fax2ps",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "d68283d17c5677d07351574179e62e36179b038998e50771aba400226f4a9ae1",
+        "sha256_in_prefix": "1001b5f533aa4e737b822fce0e8e795f12b22e54475904559f7cdcde0c22af53",
+        "size_in_bytes": 19384
+      },
+      {
+        "_path": "bin/fax2tiff",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "b95f482c657f562080ac5721a46e55f345d4219a3c917fc5574ccca060760071",
+        "sha256_in_prefix": "6fdbcf390476dded2f214731650d9d8d9828c5a298bda6d063c338f95ef5b47c",
+        "size_in_bytes": 19360
+      },
+      {
+        "_path": "bin/pal2rgb",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "79370c5aa5876a356302d33f08792fb0c9c28a520499ad81fbb23f8cb1c63afa",
+        "sha256_in_prefix": "331dd643d443cb8729abfc4eccfebecc25cd1a83f262d38e922138fdaa3b4818",
+        "size_in_bytes": 18224
+      },
+      {
+        "_path": "bin/ppm2tiff",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "73f37b62196a2098fd5838e6c33257720f5a5672ec688f3ba870699a041149c6",
+        "sha256_in_prefix": "ed08e4f31849094ddf23947bbc70fdb1e3dda1f0cf5efb85ac00dcc3649a679f",
+        "size_in_bytes": 18324
+      },
+      {
+        "_path": "bin/raw2tiff",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "3324e1d4349e75ec6a91209cf6075475d80fd5e344482593fb83ebfce2c05739",
+        "sha256_in_prefix": "62c2a0f9680f101e37232328e69b467777be17a73c52598014e704988ed2baca",
+        "size_in_bytes": 22512
+      },
+      {
+        "_path": "bin/tiff2bw",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "f4d166bc98f80951dd3a95cd7b44ddc1c6c9183af17132113ed416d6c361b9da",
+        "sha256_in_prefix": "33047eb8d51a3f5badd312dc3b28213378d8366062230a4146a6680f851ced3c",
+        "size_in_bytes": 18400
+      },
+      {
+        "_path": "bin/tiff2pdf",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "9f4675a9a5b35872ae817de6b221df9fee2422c439358d5583eda0095c6afbc7",
+        "sha256_in_prefix": "a8373ba3b2bfd24d08ab847632fb7d8a4830d51ecdd6a255b6d70b75839bea5e",
+        "size_in_bytes": 86060
+      },
+      {
+        "_path": "bin/tiff2ps",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "940a6e81dedd4c415e33bf49c5155ef9e2418567e0e4c449e0491e7a7db488f6",
+        "sha256_in_prefix": "b94cdaa8f85241d49e20820bb0a3c62ae10506447d1cdadf2cbc739342a343cb",
+        "size_in_bytes": 51172
+      },
+      {
+        "_path": "bin/tiff2rgba",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "508dbe2b93d3c81470a0db13b6ad62e37b63e1ab5acc83d071478c583c71c111",
+        "sha256_in_prefix": "6ecb396d4bee6aa7bbf5801c8b1374f0285e0c93c1968eabab1522f9b583345f",
+        "size_in_bytes": 18728
+      },
+      {
+        "_path": "bin/tiffcmp",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "8f61bed2b799d07fb605db73bd993daf9c6e548eb9862ac1e787bac53a34bc56",
+        "sha256_in_prefix": "5e9559a54f9f8b72bfe39c8af334cb87385cafe75b3082f1f6f66367e2e4665b",
+        "size_in_bytes": 26488
+      },
+      {
+        "_path": "bin/tiffcp",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "41b4e41350dba2327af1b86825fa740607f4f69f5a5bbebec17587ccd01a3fb7",
+        "sha256_in_prefix": "ca6fe04a3e8b91f9679edb9438864a415c6eb6d593c91d0881b23a0202436332",
+        "size_in_bytes": 42064
+      },
+      {
+        "_path": "bin/tiffcrop",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "391653323c18996ccd022459591f55767d70408ff601a75d4b3dd5e69d9f5e56",
+        "sha256_in_prefix": "0693d33a564330c2aa2eea26404a8fec927255e52dfd52de08ba27205386ae84",
+        "size_in_bytes": 104496
+      },
+      {
+        "_path": "bin/tiffdither",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "9b80ec07811b3a9b43dbbb521d19b6c304aa27eb99992413ead1993a37a79de7",
+        "sha256_in_prefix": "7187b518be4f3a8bef11ad0e87413eabf8ea6a14faea53f2d73573c87b797613",
+        "size_in_bytes": 18320
+      },
+      {
+        "_path": "bin/tiffdump",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "20f4ff5c6d6525ddad677e6340b062ccab4dffecbb2dcff1b911a90af9a90ab9",
+        "sha256_in_prefix": "4ab159e5c822df8500a12e853bb5d6db904b8349cb727dc50f2888ace34dbd28",
+        "size_in_bytes": 23520
+      },
+      {
+        "_path": "bin/tiffinfo",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "045588a92ce8bc60840b7912ee091f2e0fd4130b6e28b2d9df9d20129bd221ba",
+        "sha256_in_prefix": "408badef7dc7b74f87e8c306a2cd76a00f2db85a812d2b512b756786dba4ddb5",
+        "size_in_bytes": 19780
+      },
+      {
+        "_path": "bin/tiffmedian",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "56dc7d6f0670b12f91f302cab771b9af156a90e2a3c2c29a877c0e4c8db0a054",
+        "sha256_in_prefix": "2a48ef36ebc53a9f54411b513f24b6a50086c6091dfdf9d7c2be009fef8c986e",
+        "size_in_bytes": 23028
+      },
+      {
+        "_path": "bin/tiffset",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "e36058114ea87f29e57b8c4320a7c5c0c2ed6cfdd4b87fc4fd8aecebefb87f0c",
+        "sha256_in_prefix": "085e280c7ffb0ca6efddf1dfc26eb59ca34bf06e163d937c1bb6520e436381f0",
+        "size_in_bytes": 14068
+      },
+      {
+        "_path": "bin/tiffsplit",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "4d3148d5bbfa6338a2de027bed75d7b2af87fda60118620f5711f2fa3e583cfa",
+        "sha256_in_prefix": "da7d372fcb69ddf5a1f2a3527f5bdfa28a98e3a120dcaa115570f5b4e44eb4c4",
+        "size_in_bytes": 14352
+      },
+      {
+        "_path": "include/tiff.h",
+        "path_type": "hardlink",
+        "sha256": "817fc7dacfc7499ca60575fbd6d9d52f661fa11e21bf9a16165673c0b1bf4e1a",
+        "sha256_in_prefix": "817fc7dacfc7499ca60575fbd6d9d52f661fa11e21bf9a16165673c0b1bf4e1a",
+        "size_in_bytes": 35983
+      },
+      {
+        "_path": "include/tiffconf.h",
+        "path_type": "hardlink",
+        "sha256": "cfcb8320b3a222fc3964c9ea5e9e014fcce9e17f73fb871baaab0e56e2023e33",
+        "sha256_in_prefix": "cfcb8320b3a222fc3964c9ea5e9e014fcce9e17f73fb871baaab0e56e2023e33",
+        "size_in_bytes": 3432
+      },
+      {
+        "_path": "include/tiffio.h",
+        "path_type": "hardlink",
+        "sha256": "6d98b037201bbfb8a56a1947d08be85dfb1e4850eac2fc72ef850be0000dab7b",
+        "sha256_in_prefix": "6d98b037201bbfb8a56a1947d08be85dfb1e4850eac2fc72ef850be0000dab7b",
+        "size_in_bytes": 23227
+      },
+      {
+        "_path": "include/tiffio.hxx",
+        "path_type": "hardlink",
+        "sha256": "1ac75ac6bd97627d92dbdd9d9b812b92598cfb1af75cac20257cd4ae08cb982e",
+        "sha256_in_prefix": "1ac75ac6bd97627d92dbdd9d9b812b92598cfb1af75cac20257cd4ae08cb982e",
+        "size_in_bytes": 1702
+      },
+      {
+        "_path": "include/tiffvers.h",
+        "path_type": "hardlink",
+        "sha256": "21195898e58f38860e4f0ca228047f29b2ea9056370c5268b1ec74f80c8353ec",
+        "sha256_in_prefix": "21195898e58f38860e4f0ca228047f29b2ea9056370c5268b1ec74f80c8353ec",
+        "size_in_bytes": 410
+      },
+      {
+        "_path": "lib/libtiff.5.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "b45ec4d9cfa3a196d422f5b84ad7227baf740c30250166c1553ae37b435f474f",
+        "sha256_in_prefix": "21520db00013f0ea14dfd79257fb250f987b087a7478c56c5aac9531463adba2",
+        "size_in_bytes": 486896
+      },
+      {
+        "_path": "lib/libtiff.a",
+        "path_type": "hardlink",
+        "sha256": "0a45457cb8ca63e4cee13940d5bdc1d498899be4e43e827f407eb7ad395a0da1",
+        "sha256_in_prefix": "0a45457cb8ca63e4cee13940d5bdc1d498899be4e43e827f407eb7ad395a0da1",
+        "size_in_bytes": 618472
+      },
+      {
+        "_path": "lib/libtiff.dylib",
+        "file_mode": "binary",
+        "path_type": "softlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "b45ec4d9cfa3a196d422f5b84ad7227baf740c30250166c1553ae37b435f474f",
+        "size_in_bytes": 486896
+      },
+      {
+        "_path": "lib/libtiff.la",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "51621f0fe64f9dec5bb797f35a937e8ccef9c6fe2b8ac4e5e18a2dd68146a9f3",
+        "sha256_in_prefix": "5e0eeba6cbe71d26a07d887813b066e0bfa017ad23d1d0f36a7105e61bca1f23",
+        "size_in_bytes": 1096
+      },
+      {
+        "_path": "lib/libtiffxx.5.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "8325acfeacd74a14ac43192a1febff2adbd14ccaeee35d27af295e9ce701ddac",
+        "sha256_in_prefix": "655d3af5a0793a12e64a392b1acf6f0710cabdbb845379df7a79851b3e4ca5c8",
+        "size_in_bytes": 20604
+      },
+      {
+        "_path": "lib/libtiffxx.a",
+        "path_type": "hardlink",
+        "sha256": "afdcd35709bb485049fa6a4661d31e2399b398b2caa201d2512d5e17afcc3df8",
+        "sha256_in_prefix": "afdcd35709bb485049fa6a4661d31e2399b398b2caa201d2512d5e17afcc3df8",
+        "size_in_bytes": 12104
+      },
+      {
+        "_path": "lib/libtiffxx.dylib",
+        "file_mode": "binary",
+        "path_type": "softlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/9671ec49-5dc6-4620-4dcc-e02a88b609cd/volume/libtiff_1535045845327/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "8325acfeacd74a14ac43192a1febff2adbd14ccaeee35d27af295e9ce701ddac",
+        "size_in_bytes": 20604
+      },
+      {
+        "_path": "lib/libtiffxx.la",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "b98e3cfb867598b8aa31bbf164c5a0e43769d88875833f90e136355dedbd5590",
+        "sha256_in_prefix": "f988277330d8463665a7594f65eea47bb3eb6e31d4e031b822349f366ed9dcfa",
+        "size_in_bytes": 1156
+      },
+      {
+        "_path": "lib/pkgconfig/libtiff-4.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "811c52a54da4996495a8216bdc3cad4e4a4ec5ff794f7fcd94e004a48fcf537e",
+        "sha256_in_prefix": "db44c79bdeb24bb79495f956c040e91701ef08eb84f3f7e601cc1c7878ce15fe",
+        "size_in_bytes": 281
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 556608,
+  "subdir": "osx-64",
+  "timestamp": 1535046102750,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libtiff-4.0.9-hcb84e12_2.tar.bz2",
+  "version": "4.0.9"
+}

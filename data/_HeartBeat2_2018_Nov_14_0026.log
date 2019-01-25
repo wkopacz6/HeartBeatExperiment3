@@ -1,0 +1,37 @@
+4.9887 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x125c50da0>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1250809b0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3360, 2100]), stereo=False, units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.9887 	EXP 	window1: recordFrameIntervals = False
+5.1520 	EXP 	window1: recordFrameIntervals = True
+5.4031 	EXP 	window1: recordFrameIntervals = False
+5.4845 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+5.5486 	EXP 	Set  sound=A
+5.5486 	EXP 	Set Sound  volume=1.000
+5.5504 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='norm', win=Window(...))
+5.5562 	EXP 	Created choice1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='choice1', opacity=1.0, ori=0, pos=array([-2.,  0.]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+5.5597 	EXP 	Created choice2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='choice2', opacity=1.0, ori=0, pos=array([-1.,  0.]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+5.5641 	EXP 	Created choice3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='choice3', opacity=1.0, ori=0, pos=array([1., 0.]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+5.5678 	EXP 	Created choice4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='choice4', opacity=1.0, ori=0, pos=array([2., 0.]), rgb=array([255., 255., 255.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+5.5687 	EXP 	Created Wait3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Wait3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='', units='norm', win=Window(...), wrapWidth=1)
+5.5755 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Thanks for participating!\n', units='norm', win=Window(...), wrapWidth=1)
+5.6032 	EXP 	text: autoDraw = True
+6.7780 	DATA 	Keypress: space
+6.7922 	EXP 	Imported Heart2Cond.xlsx as conditions, 20 conditions, 8 params
+6.7926 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+6.7930 	EXP 	New trial (rep=0, index=0): OrderedDict([('pic', 'eyes1.png'), ('sound', 'heart120.wav'), ('c1', 'playful'), ('c2', 'comforting'), ('c3', 'irritated'), ('c4', 'bored'), ('answerNum', 1), ('answer', 'playful')])
+6.7947 	EXP 	Set  sound=heart120.wav
+6.9337 	EXP 	Sound  started
+6.9336 	EXP 	text: autoDraw = False
+6.9336 	EXP 	image: image = 'eyes1.png'
+6.9336 	EXP 	image: autoDraw = True
+26.7850 	EXP 	Sound  stopped
+26.8204 	EXP 	image: autoDraw = False
+26.8204 	EXP 	choice1: text = 'playful'
+26.8204 	EXP 	choice2: text = 'comforting'
+26.8204 	EXP 	choice3: text = 'irritated'
+26.8204 	EXP 	choice4: text = 'bored'
+26.8204 	EXP 	choice1: autoDraw = True
+26.8204 	EXP 	choice2: autoDraw = True
+26.8204 	EXP 	choice3: autoDraw = True
+26.8204 	EXP 	choice4: autoDraw = True
+38.1208 	DATA 	Keypress: lcommand
+40.2841 	DATA 	Keypress: escape
+40.5539 	EXP 	window1: mouseVisible = True

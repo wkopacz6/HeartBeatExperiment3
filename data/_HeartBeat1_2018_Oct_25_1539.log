@@ -1,0 +1,28 @@
+4.5205 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x122386c50>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1680, 1050]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+4.5206 	EXP 	window1: recordFrameIntervals = False
+4.6859 	EXP 	window1: recordFrameIntervals = True
+4.8693 	EXP 	window1: recordFrameIntervals = False
+4.9346 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+4.9455 	EXP 	Sound  set volume 1.000
+4.9465 	EXP 	Created Wait3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Wait3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=1)
+4.9553 	EXP 	Created EndText = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='EndText', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='Thanks for participating!\n', units=u'norm', win=Window(...), wrapWidth=1)
+4.9704 	EXP 	text: autoDraw = True
+6.1422 	DATA 	Keypress: space
+6.1544 	EXP 	Imported Exp1Conditions.xlsx as conditions, 2 conditions, 2 params
+6.1548 	EXP 	Created sequence: fullRandom, trialTypes=2, nReps=2, seed=None
+6.1551 	EXP 	New trial (rep=0, index=0): OrderedDict([(u'Sound', u'heart60.wav'), (u'marker', 60)])
+6.1862 	EXP 	text: autoDraw = False
+21.1684 	EXP 	Wait3: autoDraw = True
+24.1530 	EXP 	New trial (rep=0, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+24.1857 	EXP 	Wait3: autoDraw = False
+39.1683 	EXP 	Wait3: autoDraw = True
+42.1528 	EXP 	New trial (rep=1, index=0): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+42.1688 	EXP 	Wait3: autoDraw = False
+57.1692 	EXP 	Wait3: autoDraw = True
+60.1524 	EXP 	New trial (rep=1, index=1): OrderedDict([(u'Sound', u'heart60.wav'), (u'marker', 60)])
+60.1687 	EXP 	Wait3: autoDraw = False
+75.1672 	EXP 	Wait3: autoDraw = True
+78.1681 	EXP 	Wait3: autoDraw = False
+78.1681 	EXP 	EndText: autoDraw = True
+79.7422 	DATA 	Keypress: space
+80.0349 	EXP 	window1: mouseVisible = True

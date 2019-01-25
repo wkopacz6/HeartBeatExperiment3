@@ -1,0 +1,6 @@
+0.1885 	ERROR 	Requested audio device 'Built-in Output' that is not available on this hardware. The 'audioDevice' preference should be one of [u'Soundflower (2ch)']
+5.3012 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1a203a4410>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1680, 1050]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+5.3012 	EXP 	window1: recordFrameIntervals = False
+5.4677 	EXP 	window1: recordFrameIntervals = True
+5.6503 	EXP 	window1: recordFrameIntervals = False
+5.9273 	EXP 	window1: mouseVisible = True

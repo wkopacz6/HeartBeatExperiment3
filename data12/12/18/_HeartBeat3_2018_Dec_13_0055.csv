@@ -1,0 +1,7 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,intro.keys,intro.rt,Answer1.keys,IsCorrect,Answer1.rt,rating.response,rating.rt,date,frameRate,expName,session,participant,
+,,,,,,,,,,,,space,0.652007102966,,,,,,2018_Dec_13_0055,60.4573031424,HeartBeat3,001,,
+eyes31.png,silence,ashamed,confident,joking,dispirited,2,confident,0,0,0,102,,,1,False,0.817759037018,2,1.334,2018_Dec_13_0055,60.4573031424,HeartBeat3,001,,
+eyes12.png,120bpm,indifferent,embasassed,skeptical,dispirited,3,skeptical,0,1,1,11,,,1,False,0.501950979233,2,0.796,2018_Dec_13_0055,60.4573031424,HeartBeat3,001,,
+eyes14.png,silence,irritated,dissapointed,depressed,accusing,4,accusing,0,2,2,85,,,1,False,0.349270105362,2,0.73,2018_Dec_13_0055,60.4573031424,HeartBeat3,001,,
+eyes16.png,silence,irritated,thoughtful,encouraging,sympathetic,2,thoughtful,0,3,3,87,,,1,False,0.425771951675,2,0.781,2018_Dec_13_0055,60.4573031424,HeartBeat3,001,,
+eyes21.png,40bpm,embarassed ,fantasizing,confused,panicked ,2,fantasizing,0,4,4,56,,,1,False,0.350228071213,2,0.812,2018_Dec_13_0055,60.4573031424,HeartBeat3,001,,

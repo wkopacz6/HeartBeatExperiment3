@@ -1,0 +1,117 @@
+6.2523 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x113f59c90>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1680, 1050]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+6.2524 	EXP 	window1: recordFrameIntervals = False
+6.4166 	EXP 	window1: recordFrameIntervals = True
+6.6011 	EXP 	window1: recordFrameIntervals = False
+6.6657 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+6.6770 	EXP 	Sound  set volume 1.000
+6.6782 	EXP 	Created Wait3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Wait3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=1)
+6.6871 	EXP 	Created EndText = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='EndText', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='Thanks for participating!\n', units=u'norm', win=Window(...), wrapWidth=1)
+6.7023 	EXP 	text: autoDraw = True
+249.8769 	DATA 	Keypress: space
+249.8900 	EXP 	Imported Exp1Conditions.xlsx as conditions, 2 conditions, 2 params
+249.8904 	EXP 	Created sequence: fullRandom, trialTypes=2, nReps=15, seed=None
+249.8907 	EXP 	New trial (rep=0, index=0): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+249.9212 	EXP 	text: autoDraw = False
+269.9047 	EXP 	Wait3: autoDraw = True
+279.8885 	EXP 	New trial (rep=0, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+279.9215 	EXP 	Wait3: autoDraw = False
+299.9052 	EXP 	Wait3: autoDraw = True
+309.8892 	EXP 	New trial (rep=1, index=0): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+309.9211 	EXP 	Wait3: autoDraw = False
+329.8952 	EXP 	Wait3: autoDraw = True
+339.8789 	EXP 	New trial (rep=1, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+339.9122 	EXP 	Wait3: autoDraw = False
+359.8953 	EXP 	Wait3: autoDraw = True
+369.8788 	EXP 	New trial (rep=2, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+369.8957 	EXP 	Wait3: autoDraw = False
+389.8960 	EXP 	Wait3: autoDraw = True
+399.8801 	EXP 	New trial (rep=2, index=1): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+399.8963 	EXP 	Wait3: autoDraw = False
+419.8969 	EXP 	Wait3: autoDraw = True
+429.8805 	EXP 	New trial (rep=3, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+429.9135 	EXP 	Wait3: autoDraw = False
+449.8964 	EXP 	Wait3: autoDraw = True
+459.8812 	EXP 	New trial (rep=3, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+459.9136 	EXP 	Wait3: autoDraw = False
+479.8968 	EXP 	Wait3: autoDraw = True
+489.8807 	EXP 	New trial (rep=4, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+489.8971 	EXP 	Wait3: autoDraw = False
+509.8968 	EXP 	Wait3: autoDraw = True
+519.8814 	EXP 	New trial (rep=4, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+519.9137 	EXP 	Wait3: autoDraw = False
+539.8982 	EXP 	Wait3: autoDraw = True
+549.8823 	EXP 	New trial (rep=5, index=0): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+549.9144 	EXP 	Wait3: autoDraw = False
+569.8976 	EXP 	Wait3: autoDraw = True
+579.8831 	EXP 	New trial (rep=5, index=1): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+579.9149 	EXP 	Wait3: autoDraw = False
+599.8989 	EXP 	Wait3: autoDraw = True
+609.8838 	EXP 	New trial (rep=6, index=0): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+609.9156 	EXP 	Wait3: autoDraw = False
+629.8996 	EXP 	Wait3: autoDraw = True
+639.8836 	EXP 	New trial (rep=6, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+639.9153 	EXP 	Wait3: autoDraw = False
+659.8998 	EXP 	Wait3: autoDraw = True
+669.8834 	EXP 	New trial (rep=7, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+669.9159 	EXP 	Wait3: autoDraw = False
+689.8994 	EXP 	Wait3: autoDraw = True
+699.8850 	EXP 	New trial (rep=7, index=1): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+699.9177 	EXP 	Wait3: autoDraw = False
+719.9010 	EXP 	Wait3: autoDraw = True
+729.8844 	EXP 	New trial (rep=8, index=0): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+729.9014 	EXP 	Wait3: autoDraw = False
+749.9005 	EXP 	Wait3: autoDraw = True
+759.8860 	EXP 	New trial (rep=8, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+759.9186 	EXP 	Wait3: autoDraw = False
+779.9017 	EXP 	Wait3: autoDraw = True
+789.8852 	EXP 	New trial (rep=9, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+789.9007 	EXP 	Wait3: autoDraw = False
+809.9025 	EXP 	Wait3: autoDraw = True
+819.8865 	EXP 	New trial (rep=9, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+819.9192 	EXP 	Wait3: autoDraw = False
+839.9035 	EXP 	Wait3: autoDraw = True
+849.8747 	EXP 	New trial (rep=10, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+849.9032 	EXP 	Wait3: autoDraw = False
+849.9032 	EXP 	Wait3: autoDraw = False
+869.8866 	EXP 	Wait3: autoDraw = True
+879.8715 	EXP 	New trial (rep=10, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+879.9023 	EXP 	Wait3: autoDraw = False
+879.9023 	EXP 	Wait3: autoDraw = False
+899.8874 	EXP 	Wait3: autoDraw = True
+909.8711 	EXP 	New trial (rep=11, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+909.9038 	EXP 	Wait3: autoDraw = False
+909.9038 	EXP 	Wait3: autoDraw = False
+929.8878 	EXP 	Wait3: autoDraw = True
+939.8712 	EXP 	New trial (rep=11, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+939.9046 	EXP 	Wait3: autoDraw = False
+939.9046 	EXP 	Wait3: autoDraw = False
+959.8886 	EXP 	Wait3: autoDraw = True
+969.8718 	EXP 	New trial (rep=12, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+969.9044 	EXP 	Wait3: autoDraw = False
+969.9044 	EXP 	Wait3: autoDraw = False
+989.8886 	EXP 	Wait3: autoDraw = True
+999.8731 	EXP 	New trial (rep=12, index=1): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+999.9054 	EXP 	Wait3: autoDraw = False
+999.9054 	EXP 	Wait3: autoDraw = False
+1019.8883 	EXP 	Wait3: autoDraw = True
+1029.8726 	EXP 	New trial (rep=13, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+1029.8890 	EXP 	Wait3: autoDraw = False
+1029.8890 	EXP 	Wait3: autoDraw = False
+1049.8895 	EXP 	Wait3: autoDraw = True
+1059.8737 	EXP 	New trial (rep=13, index=1): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+1059.8896 	EXP 	Wait3: autoDraw = False
+1059.8896 	EXP 	Wait3: autoDraw = False
+1079.8910 	EXP 	Wait3: autoDraw = True
+1089.8734 	EXP 	New trial (rep=14, index=0): OrderedDict([(u'Sound', u'heart60_1.wav'), (u'marker', 60)])
+1089.8896 	EXP 	Wait3: autoDraw = False
+1089.8896 	EXP 	Wait3: autoDraw = False
+1109.8896 	EXP 	Wait3: autoDraw = True
+1119.8751 	EXP 	New trial (rep=14, index=1): OrderedDict([(u'Sound', u'heart120.wav'), (u'marker', 120)])
+1119.9068 	EXP 	Wait3: autoDraw = False
+1119.9068 	EXP 	Wait3: autoDraw = False
+1139.8911 	EXP 	Wait3: autoDraw = True
+1149.9073 	EXP 	Wait3: autoDraw = False
+1149.9073 	EXP 	Wait3: autoDraw = False
+1149.9073 	EXP 	EndText: autoDraw = True
+1161.3655 	DATA 	Keypress: space
+1161.6872 	EXP 	window1: mouseVisible = True

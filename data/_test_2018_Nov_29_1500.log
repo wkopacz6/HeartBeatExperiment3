@@ -1,0 +1,8 @@
+4.2032 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1680, 1050]. Using actual size
+4.9922 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x129e5ae80>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x12e8de320>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3360, 2100]), stereo=False, units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.9922 	EXP 	window1: recordFrameIntervals = False
+5.1579 	EXP 	window1: recordFrameIntervals = True
+5.3408 	EXP 	window1: recordFrameIntervals = False
+5.3523 	ERROR 	RatingScale rating: choices requires 2 or more items
+5.3523 	WARNING 	RatingScale rating: len(labels) not equal to len(tickMarks)
+5.6261 	EXP 	window1: mouseVisible = True

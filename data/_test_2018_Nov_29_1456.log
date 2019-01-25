@@ -1,0 +1,51 @@
+4.7520 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1680, 1050]. Using actual size
+5.5428 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x12890f390>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x12cbd6320>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3360, 2100]), stereo=False, units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.5428 	EXP 	window1: recordFrameIntervals = False
+5.7091 	EXP 	window1: recordFrameIntervals = True
+5.8935 	EXP 	window1: recordFrameIntervals = False
+6.0011 	EXP 	Created rating = RatingScale(__class__=type(...), acceptKeys=['return'], acceptPreText=UNKNOWN, acceptSize=UNKNOWN, acceptText='accept?', autoLog=True, choices=['1', '2', '3', '4', '5'], depth=0, disappear=False, flipVert=False, high=4, kwargs=UNKNOWN, labels=list(...), leftKeys=['left'], lineColor='White', low=0, marker=ShapeStim(...), markerColor='DarkBlue', markerExpansion=UNKNOWN, markerStart=1.0, maxTime=0.0, minTime=0.4, mouseOnly=False, name='rating', noMouse=False, pos=[0.0, -0.4], precision=1, respKeys=['0', '1', '2', '3', '4'], rightKeys=['right'], scale='<default>', self=UNKNOWN, showAccept=True, showValue=True, singleClick=False, size=0.6, skipKeys=['tab'], stretch=1.0, textColor='LightGray', textFont='Helvetica Bold', textSize=0.12, tickHeight=1.0, tickMarks=4.0, win=Window(...))
+6.0207 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+6.0216 	EXP 	RatingScale rating: reset()
+6.0631 	EXP 	rating: flipVert = False
+6.0631 	EXP 	rating: autoLog = True
+6.0631 	EXP 	rating: autoDraw = True
+6.0631 	EXP 	text: autoDraw = True
+8.9028 	DATA 	Mouse: Left button down, pos=(847,310)
+9.0499 	DATA 	Mouse:  Left button up, pos=(847,310)
+9.5665 	DATA 	Mouse: Left button down, pos=(943,311)
+9.6640 	DATA 	Mouse:  Left button up, pos=(943,311)
+10.0365 	DATA 	Mouse: Left button down, pos=(1081,313)
+10.1488 	DATA 	Mouse:  Left button up, pos=(1081,313)
+10.7806 	DATA 	Mouse: Left button down, pos=(964,320)
+10.8803 	DATA 	Mouse:  Left button up, pos=(964,319)
+11.4298 	DATA 	Mouse: Left button down, pos=(830,323)
+11.5168 	DATA 	Mouse:  Left button up, pos=(830,323)
+12.0329 	DATA 	Mouse: Left button down, pos=(677,333)
+12.1463 	DATA 	Mouse:  Left button up, pos=(677,333)
+12.6633 	DATA 	Mouse: Left button down, pos=(615,325)
+12.7653 	DATA 	Mouse:  Left button up, pos=(615,325)
+13.1863 	DATA 	Mouse: Left button down, pos=(818,335)
+13.2529 	DATA 	Mouse:  Left button up, pos=(818,335)
+15.0464 	DATA 	Mouse: Left button down, pos=(940,325)
+15.1829 	DATA 	Mouse:  Left button up, pos=(941,326)
+16.2378 	DATA 	Mouse: Left button down, pos=(1104,311)
+16.4015 	DATA 	Mouse:  Left button up, pos=(1104,311)
+16.8312 	DATA 	Mouse: Left button down, pos=(958,311)
+16.9312 	DATA 	Mouse:  Left button up, pos=(958,312)
+17.3306 	DATA 	Mouse: Left button down, pos=(887,312)
+17.4557 	DATA 	Mouse:  Left button up, pos=(886,312)
+18.0042 	DATA 	Mouse: Left button down, pos=(704,310)
+18.1135 	DATA 	Mouse:  Left button up, pos=(704,311)
+18.6011 	DATA 	Mouse: Left button down, pos=(641,315)
+18.7333 	DATA 	Mouse:  Left button up, pos=(641,315)
+19.1476 	DATA 	Mouse: Left button down, pos=(897,316)
+19.2475 	DATA 	Mouse:  Left button up, pos=(897,316)
+19.6137 	DATA 	Mouse: Left button down, pos=(1023,316)
+19.7133 	DATA 	Mouse:  Left button up, pos=(1023,316)
+19.9803 	DATA 	Mouse: Left button down, pos=(1070,316)
+20.1009 	DATA 	Mouse:  Left button up, pos=(1070,316)
+22.8171 	DATA 	Mouse: Left button down, pos=(939,203)
+22.8228 	DATA 	RatingScale rating: (mouse response) rating=5
+22.8228 	DATA 	RatingScale rating: rating RT=16.801
+22.8228 	DATA 	RatingScale rating: history=[('2', 0.0), ('3', 2.881), ('4', 3.549), ('5', 4.015), ('4', 4.763), ('3', 5.412), ('2', 6.015), ('1', 6.646), ('3', 7.165), ('4', 9.028), ('5', 10.216), ('4', 10.814), ('3', 11.313), ('2', 11.983), ('1', 12.58), ('3', 13.132), ('4', 13.597), ('5', 13.963), ('5', 16.801)]
+23.1211 	EXP 	window1: mouseVisible = True

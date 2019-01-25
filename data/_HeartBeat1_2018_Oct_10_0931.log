@@ -1,0 +1,19 @@
+4.6532 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1680, 1050]. Using actual size
+5.4313 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x125136d30>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x12c6442e8>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3360, 2100]), stereo=False, units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.4313 	EXP 	window1: recordFrameIntervals = False
+5.5953 	EXP 	window1: recordFrameIntervals = True
+5.7794 	EXP 	window1: recordFrameIntervals = False
+5.8625 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+6.2028 	DATA 	Keypress: space
+6.3962 	EXP 	Set  sound=C
+6.4181 	EXP 	Set  sound=heart60.wav
+6.4181 	EXP 	Sound  set volume 1.000
+6.4467 	EXP 	text: autoDraw = True
+6.9974 	DATA 	Keypress: space
+7.0158 	EXP 	Set  sound=heart60.wav
+7.0305 	EXP 	Sound  started
+7.0297 	EXP 	text: autoDraw = False
+15.9470 	DATA 	Keypress: space
+16.3292 	DATA 	Keypress: space
+17.8133 	DATA 	Keypress: escape
+25.5987 	EXP 	window1: mouseVisible = True

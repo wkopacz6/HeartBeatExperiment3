@@ -1,0 +1,53 @@
+6.7770 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x125490d68>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1247b4518>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3360, 2100]), stereo=False, units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.7771 	EXP 	window1: recordFrameIntervals = False
+6.9427 	EXP 	window1: recordFrameIntervals = True
+7.1254 	EXP 	window1: recordFrameIntervals = False
+7.2082 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+7.2706 	EXP 	Set  sound=A
+7.2706 	EXP 	Set Sound  volume=1.000
+7.2726 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='norm', win=Window(...))
+7.3173 	EXP 	Created Scale = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='scale.png', interpolate=True, mask=None, maskParams=None, name='Scale', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='norm', win=Window(...))
+7.3348 	EXP 	Created Question = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Question', opacity=1.0, ori=0, pos=array([ 0. , -0.5]), rgb=array([255., 255., 255.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+7.3353 	EXP 	Created Wait3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Wait3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='', units='norm', win=Window(...), wrapWidth=1)
+7.3413 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Thanks for participating!\n', units='norm', win=Window(...), wrapWidth=1)
+7.3697 	EXP 	text: autoDraw = True
+13.0206 	DATA 	Keypress: space
+13.0302 	EXP 	Imported Exp1Conditions.xlsx as conditions, 6 conditions, 3 params
+13.0305 	EXP 	Created sequence: fullRandom, trialTypes=6, nReps=2, seed=None
+13.0308 	EXP 	New trial (rep=0, index=0): OrderedDict([('Sound', 'heart120.wav'), ('marker', 120.0), ('img', 'eyes1')])
+13.0326 	EXP 	Set  sound=heart120.wav
+13.0327 	WARNING 	Requested image 'eyes1' not found but similar filename 'eyes1.png' exists. This will be used instead but changing the filename is advised.
+13.0618 	EXP 	Sound  started
+13.0617 	EXP 	text: autoDraw = False
+13.0617 	EXP 	image: image = 'eyes1'
+13.0617 	EXP 	image: autoDraw = True
+33.0268 	EXP 	Sound  stopped
+33.0439 	EXP 	image: autoDraw = False
+33.0439 	EXP 	Scale: autoDraw = True
+33.0439 	EXP 	Question: autoDraw = True
+85.9288 	DATA 	Keypress: 2
+85.9425 	EXP 	Scale: autoDraw = False
+85.9425 	EXP 	Question: autoDraw = False
+85.9425 	EXP 	Wait3: autoDraw = True
+88.9261 	EXP 	New trial (rep=0, index=1): OrderedDict([('Sound', 'silence.wav'), ('marker', None), ('img', 'eyes1')])
+88.9282 	EXP 	Set  sound=silence.wav
+88.9283 	WARNING 	Requested image 'eyes1' not found but similar filename 'eyes1.png' exists. This will be used instead but changing the filename is advised.
+88.9434 	EXP 	Sound  started
+88.9433 	EXP 	Wait3: autoDraw = False
+88.9433 	EXP 	Wait3: autoDraw = False
+88.9433 	EXP 	image: image = 'eyes1'
+88.9433 	EXP 	image: autoDraw = True
+108.9266 	EXP 	Sound  stopped
+108.9273 	EXP 	Sound  stopped
+108.9433 	EXP 	image: autoDraw = False
+108.9433 	EXP 	image: autoDraw = False
+108.9433 	EXP 	Scale: autoDraw = True
+108.9433 	EXP 	Question: autoDraw = True
+1277.6448 	DATA 	Keypress: lcommand
+1277.6617 	DATA 	Keypress: loption
+1279.3602 	DATA 	Keypress: lcommand
+1279.3623 	DATA 	Keypress: loption
+1303.5281 	DATA 	Keypress: loption
+1303.5285 	DATA 	Keypress: lctrl
+1303.7627 	DATA 	Keypress: escape
+1304.0429 	EXP 	window1: mouseVisible = True

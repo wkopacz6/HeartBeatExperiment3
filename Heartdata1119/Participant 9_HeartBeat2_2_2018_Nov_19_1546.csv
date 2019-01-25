@@ -1,0 +1,83 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,marker,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,intro.keys,intro.rt,Answer1.keys,Answer1.rt,EmpAnswer.keys,EmpAnswer.rt,date,frameRate,expName,session,participant
+,,,,,,,,,,,,,space,335.5472279,,,,,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes1.png,heart120_1.wav,playful,comforting,irritated,bored,1,playful,120',0,0,0,0,,,1,8.754563093,4,7.149073839,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes3.png,silence.wav,joking,flustered,desire,convinced,3,desire,Silence,0,1,1,1,,,3,11.001297,1,2.899084091,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes5.png,heart120_1.wav,irritated,sarcastic,worried,friendly,3,worried,120',0,2,2,2,,,3,4.999168873,3,3.880143166,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes6.png,heart60_2.wav,aghast,fantasizing,impatient,alarmed,2,fantasizing,60',0,3,3,3,,,2,9.573434114,2,3.183809996,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes7.png,silence.wav,apologetic,friendly,uneasy,dispirited,3,uneasy,Silence,0,4,4,4,,,3,6.367811918,1,7.10048008,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes10.png,heart120_1.wav,cautious,insisting,bored,aghast,1,cautious,120',0,5,5,5,,,1,6.599196911,3,2.586238861,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes15.png,heart120_1.wav,contemplative,flustered,encouraging,amused,1,contemplative,120',0,6,6,6,,,1,10.33364201,2,6.900676012,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes17.png,heart60_2.wav,doubtful,affectionate,playful,aghast,1,doubtful,60',0,7,7,7,,,None,,3,8.265422106,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes18.png,heart60_2.wav,amused,decisive,aghast,bored,2,decisive,60',0,8,8,8,,,2,6.691588163,3,4.615720987,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes20.png,silence.wav,dominant,horrified,guilty,friendly,4,friendly,Silence,0,9,9,9,,,4,4.962184906,1,3.435578823,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes7.png,heart60_2.wav,apologetic,friendly,uneasy,dispirited,3,uneasy,60',0,10,10,10,,,3,4.102584839,4,2.042492151,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes17.png,heart120_1.wav,doubtful,affectionate,playful,aghast,1,doubtful,120',0,11,11,11,,,1,13.45360708,2,3.352134943,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes5.png,heart60_2.wav,irritated,sarcastic,worried,friendly,3,worried,60',0,12,12,12,,,3,2.783658028,3,2.650520086,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes10.png,heart60_2.wav,cautious,insisting,bored,aghast,1,cautious,60',0,13,13,13,,,1,6.473310947,2,3.581218958,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes20.png,heart60_2.wav,dominant,horrified,guilty,friendly,4,friendly,60',0,14,14,14,,,4,4.316700935,3,2.716693878,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes6.png,silence.wav,aghast,fantasizing,impatient,alarmed,2,fantasizing,Silence,0,15,15,15,,,2,4.464452982,1,4.800776005,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes18.png,heart120_1.wav,amused,decisive,aghast,bored,2,decisive,120',0,16,16,16,,,2,5.103376865,4,2.384281158,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes1.png,heart60_2.wav,playful,comforting,irritated,bored,1,playful,60',0,17,17,17,,,1,4.470041037,1,0.98504281,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes3.png,heart120_1.wav,joking,flustered,desire,convinced,3,desire,120',0,18,18,18,,,3,10.48225093,3,2.918435097,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes15.png,silence.wav,contemplative,flustered,encouraging,amused,1,contemplative,Silence,0,19,19,19,,,2,3.264377117,2,4.520710945,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes1.png,silence.wav,playful,comforting,irritated,bored,1,playful,Silence,0,20,20,20,,,1,2.343831062,3,2.53187108,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes3.png,heart60_2.wav,joking,flustered,desire,convinced,3,desire,60',0,21,21,21,,,3,7.615164042,1,1.151478052,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes5.png,silence.wav,irritated,sarcastic,worried,friendly,3,worried,Silence,0,22,22,22,,,3,2.133341074,1,2.418237925,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes6.png,heart120_1.wav,aghast,fantasizing,impatient,alarmed,2,fantasizing,120',0,23,23,23,,,2,12.53329897,1,8.202788115,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes7.png,heart120_1.wav,apologetic,friendly,uneasy,dispirited,3,uneasy,120',0,24,24,24,,,3,7.698415995,2,5.53490591,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes10.png,silence.wav,cautious,insisting,bored,aghast,1,cautious,Silence,0,25,25,25,,,1,5.782205105,3,4.051728964,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes15.png,heart120_1.wav,contemplative,flustered,encouraging,amused,1,contemplative,120',0,26,26,26,,,1,5.084440947,1,4.467210054,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes17.png,silence.wav,doubtful,affectionate,playful,aghast,1,doubtful,Silence,0,27,27,27,,,1,12.16457605,3,3.651633978,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes18.png,silence.wav,amused,decisive,aghast,bored,2,decisive,Silence,0,28,28,28,,,2,2.963057995,3,4.534429073,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes20.png,heart120_1.wav,dominant,horrified,guilty,friendly,4,friendly,120',0,29,29,29,,,4,4.082180023,2,5.251863003,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes21.png,heart120_1.wav,embarassed ,fantasizing,confused,panicked ,None,fantasizing,120',0,30,30,30,,,2,14.76679087,3,10.30180693,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes22.png,heart120_1.wav,preoccupied,grateful,insisting,implorign,None,preoccupied,120',0,31,31,31,,,1,6.200618029,4,2.202214003,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes23.png,heart60_2.wav,contented,apologetic,defiant,curious,None,defiant,60',0,32,32,32,,,3,7.584583998,3,1.468436956,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes21.png,silence.wav,embarassed ,fantasizing,confused,panicked ,None,fantasizing,silence',0,33,33,33,,,2,16.49836898,3,6.912415028,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes22.png,heart60_2.wav,preoccupied,grateful,insisting,implorign,None,preoccupied,60',0,34,34,34,,,1,3.47329998,4,6.566707134,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes23.png,silence.wav,contented,apologetic,defiant,curious,None,defiant,silence',0,35,35,35,,,None,,2,6.502097845,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes21.png,heart60_2.wav,embarassed ,fantasizing,confused,panicked ,None,fantasizing,60',0,36,36,36,,,2,10.58788896,3,3.732969046,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes22.png,silence.wav,preoccupied,grateful,insisting,implorign,None,preoccupied,silence',0,37,37,37,,,1,16.68222117,3,2.51552105,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+eyes23.png,heart120_1.wav,contented,apologetic,defiant,curious,None,defiant,120',0,38,38,38,,,3,17.2166791,3,4.669291019,2018_Nov_19_1546,59.73932525,HeartBeat2_2,1,Participant 9
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,Silence,2.076923077,,,,,,
+1,1,eyes1.png,heart120_1.wav,,,,,,,,,,,,,120 bpm,2.642857143,,,,,,
+3,3,eyes3.png,silence.wav,,,,,,,,,,,,,60 bpm,2.666666667,,,,,,
+3,3,eyes5.png,heart120_1.wav,,,,,,,,,,,,,All Heart Beats,2.653846154,,,,,,
+2,2,eyes6.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes7.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes10.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes15.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+1,None,eyes17.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+2,2,eyes18.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+4,4,eyes20.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes7.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes17.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes5.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes10.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+4,4,eyes20.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+2,2,eyes6.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+2,2,eyes18.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes1.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes3.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+1,2,eyes15.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes1.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes3.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes5.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+2,2,eyes6.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes7.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes10.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes15.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes17.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+2,2,eyes18.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+4,4,eyes20.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+2,2,eyes21.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes22.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes23.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+2,2,eyes21.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes22.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+3,None,eyes23.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+2,2,eyes21.png,heart60_2.wav,,,,,,,,,,,,,,,,,,,,
+1,1,eyes22.png,silence.wav,,,,,,,,,,,,,,,,,,,,
+3,3,eyes23.png,heart120_1.wav,,,,,,,,,,,,,,,,,,,,

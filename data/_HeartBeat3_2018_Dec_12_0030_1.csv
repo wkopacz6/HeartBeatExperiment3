@@ -1,0 +1,3 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,trialsListen.thisRepN,trialsListen.thisTrialN,trialsListen.thisN,trialsListen.thisIndex,intro.keys,intro.rt,Answer1.keys,rating.response,rating.rt,participant,session,date,expName,frameRate,
+,,,,,,,,,,,,space,0.7301651519992447,,,,,001,2018_Dec_12_0030,HeartBeat3,59.886802684462516,
+blank.png,heart120_1.wav,grateful,flirtatious,hostile,disapointed,2,flirtatious,0,0,0,29,,,None,4,10.206,,001,2018_Dec_12_0030,HeartBeat3,59.886802684462516,

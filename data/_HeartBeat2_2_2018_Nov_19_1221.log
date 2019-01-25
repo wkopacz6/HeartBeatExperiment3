@@ -1,0 +1,208 @@
+11.2786 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1139a1c90>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1680, 1050]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+11.2787 	EXP 	window1: recordFrameIntervals = False
+11.4420 	EXP 	window1: recordFrameIntervals = True
+11.6266 	EXP 	window1: recordFrameIntervals = False
+11.6910 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+11.7027 	EXP 	Sound  set volume 1.000
+11.7051 	EXP 	Created image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.,  2.]), size=array([ 20.,  14.]), texRes=128, units='cm', win=Window(...))
+11.7141 	EXP 	Created Choice1 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='Choice1', opacity=1.0, ori=0, pos=array([-12.,  13.]), rgb=array([ 255.,  255.,  255.]), text='default text', units='cm', win=Window(...), wrapWidth=15.0)
+11.7192 	EXP 	Created Choice2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='Choice2', opacity=1.0, ori=0, pos=array([ 12.,  13.]), rgb=array([ 255.,  255.,  255.]), text='default text', units='cm', win=Window(...), wrapWidth=15.0)
+11.7242 	EXP 	Created Choice3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='Choice3', opacity=1.0, ori=0, pos=array([-12.,  -9.]), rgb=array([ 255.,  255.,  255.]), text='default text', units='cm', win=Window(...), wrapWidth=15.0)
+11.7292 	EXP 	Created Choice4 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='Choice4', opacity=1.0, ori=0, pos=array([ 12.,  -9.]), rgb=array([ 255.,  255.,  255.]), text='default text', units='cm', win=Window(...), wrapWidth=15.0)
+11.7341 	EXP 	Created Chosen = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='Chosen', opacity=1.0, ori=0, pos=array([  0., -11.]), rgb=array([ 255.,  255.,  255.]), text='default text', units='cm', win=Window(...), wrapWidth=15.0)
+11.7425 	EXP 	Created YourChoice = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-8.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='YourChoice', opacity=1.0, ori=0, pos=array([ 0., -9.]), rgb=array([ 255.,  255.,  255.]), text='Your Choice:', units='cm', win=Window(...), wrapWidth=15.0)
+11.7465 	EXP 	Created twentysec = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-9.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='twentysec', opacity=1.0, ori=0, pos=array([-17.,   1.]), rgb=array([ 255.,  255.,  255.]), text='20', units='cm', win=Window(...), wrapWidth=15.0)
+11.7503 	EXP 	Created FifteenSec = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-10.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='FifteenSec', opacity=1.0, ori=0, pos=array([-17.,   1.]), rgb=array([ 255.,  255.,  255.]), text='15', units='cm', win=Window(...), wrapWidth=15.0)
+11.7532 	EXP 	Created TenSec = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-11.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='TenSec', opacity=1.0, ori=0, pos=array([-17.,   1.]), rgb=array([ 255.,  255.,  255.]), text='10', units='cm', win=Window(...), wrapWidth=15.0)
+11.7559 	EXP 	Created FiveSec = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-12.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='FiveSec', opacity=1.0, ori=0, pos=array([-17.,   1.]), rgb=array([ 255.,  255.,  255.]), text='5', units='cm', win=Window(...), wrapWidth=15.0)
+11.7617 	EXP 	Created Timer = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-13.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=1.5, italic=False, name='Timer', opacity=1.0, ori=0, pos=array([-17.,   3.]), rgb=array([ 255.,  255.,  255.]), text='Seconds left:', units='cm', win=Window(...), wrapWidth=15.0)
+11.7807 	EXP 	Created Question = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Question', opacity=1.0, ori=0, pos=array([ 0. ,  0.2]), rgb=array([ 255.,  255.,  255.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+11.7940 	EXP 	Created scale = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='scale2.png', interpolate=True, mask=None, maskParams=None, name='scale', opacity=1.0, ori=0.0, pos=array([   0., -200.]), size=array([ 1162.,   158.]), texRes=128, units='pix', win=Window(...))
+11.7948 	EXP 	Created Wait3 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Wait3', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='', units=u'norm', win=Window(...), wrapWidth=1)
+11.8024 	EXP 	Created EndText = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='EndText', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text='Thanks for participating!\n', units=u'norm', win=Window(...), wrapWidth=1)
+11.8274 	EXP 	text: autoDraw = True
+41.2327 	DATA 	Keypress: space
+41.2535 	EXP 	Imported Heart2Cond.xlsx as conditions, 30 conditions, 9 params
+41.2539 	EXP 	Created sequence: sequential, trialTypes=30, nReps=1, seed=None
+41.2543 	EXP 	New trial (rep=0, index=0): OrderedDict([(u'pic', u'eyes1.png'), (u'sound', u'heart120_1.wav'), (u'c1', u'playful'), (u'c2', u'comforting'), (u'c3', u'irritated'), (u'c4', u'bored'), (u'answerNum', 1), (u'answer', u'playful'), (u'marker', u"120'")])
+41.3606 	EXP 	text: autoDraw = False
+41.3606 	EXP 	image: image = u'eyes1.png'
+41.3606 	EXP 	Choice1: text = u'1.playful'
+41.3606 	EXP 	Choice2: text = u'2.comforting'
+41.3606 	EXP 	Choice3: text = u'3.irritated'
+41.3606 	EXP 	Choice4: text = u'4.bored'
+41.3606 	EXP 	image: autoDraw = True
+41.3606 	EXP 	Choice1: autoDraw = True
+41.3606 	EXP 	Choice2: autoDraw = True
+41.3606 	EXP 	Choice3: autoDraw = True
+41.3606 	EXP 	Choice4: autoDraw = True
+41.3606 	EXP 	Chosen: autoDraw = True
+41.3606 	EXP 	YourChoice: autoDraw = True
+41.3606 	EXP 	twentysec: autoDraw = True
+41.3606 	EXP 	Timer: autoDraw = True
+45.5418 	DATA 	Keypress: function
+46.2755 	EXP 	twentysec: autoDraw = False
+46.2755 	EXP 	FifteenSec: autoDraw = True
+46.9102 	DATA 	Keypress: 1
+51.2749 	EXP 	FifteenSec: autoDraw = False
+51.2749 	EXP 	TenSec: autoDraw = True
+56.2757 	EXP 	TenSec: autoDraw = False
+56.2757 	EXP 	FiveSec: autoDraw = True
+61.2576 	EXP 	image: autoDraw = False
+61.2576 	EXP 	Choice1: autoDraw = False
+61.2576 	EXP 	Choice2: autoDraw = False
+61.2576 	EXP 	Choice3: autoDraw = False
+61.2576 	EXP 	Choice4: autoDraw = False
+61.2576 	EXP 	Chosen: autoDraw = False
+61.2576 	EXP 	YourChoice: autoDraw = False
+61.2576 	EXP 	twentysec: autoDraw = False
+61.2576 	EXP 	FifteenSec: autoDraw = False
+61.2576 	EXP 	TenSec: autoDraw = False
+61.2576 	EXP 	FiveSec: autoDraw = False
+61.2576 	EXP 	Timer: autoDraw = False
+61.2576 	EXP 	Question: autoDraw = True
+61.2576 	EXP 	scale: autoDraw = True
+62.9777 	DATA 	Keypress: 2
+63.0071 	EXP 	Question: autoDraw = False
+63.0071 	EXP 	scale: autoDraw = False
+63.0071 	EXP 	Wait3: autoDraw = True
+65.9956 	EXP 	New trial (rep=0, index=1): OrderedDict([(u'pic', u'eyes3.png'), (u'sound', u'silence.wav'), (u'c1', u'joking'), (u'c2', u'flustered'), (u'c3', u'desire'), (u'c4', u'convinced'), (u'answerNum', 3), (u'answer', u'desire'), (u'marker', u'Silence')])
+66.0936 	EXP 	Wait3: autoDraw = False
+66.0936 	EXP 	image: image = u'eyes3.png'
+66.0936 	EXP 	Choice1: text = u'1.joking'
+66.0936 	EXP 	Choice2: text = u'2.flustered'
+66.0936 	EXP 	Choice3: text = u'3.desire'
+66.0936 	EXP 	Choice4: text = u'4.convinced'
+66.0936 	EXP 	image: autoDraw = True
+66.0936 	EXP 	Choice1: autoDraw = True
+66.0936 	EXP 	Choice2: autoDraw = True
+66.0936 	EXP 	Choice3: autoDraw = True
+66.0936 	EXP 	Choice4: autoDraw = True
+66.0936 	EXP 	Chosen: autoDraw = True
+66.0936 	EXP 	YourChoice: autoDraw = True
+66.0936 	EXP 	twentysec: autoDraw = True
+66.0936 	EXP 	Timer: autoDraw = True
+71.0084 	EXP 	twentysec: autoDraw = False
+71.0249 	EXP 	FifteenSec: autoDraw = True
+76.0079 	EXP 	FifteenSec: autoDraw = False
+76.0238 	EXP 	TenSec: autoDraw = True
+81.0073 	EXP 	TenSec: autoDraw = False
+81.0247 	EXP 	FiveSec: autoDraw = True
+83.1636 	DATA 	Keypress: 2
+86.0082 	EXP 	image: autoDraw = False
+86.0082 	EXP 	Choice1: autoDraw = False
+86.0082 	EXP 	Choice2: autoDraw = False
+86.0082 	EXP 	Choice3: autoDraw = False
+86.0082 	EXP 	Choice4: autoDraw = False
+86.0082 	EXP 	Chosen: autoDraw = False
+86.0082 	EXP 	YourChoice: autoDraw = False
+86.0082 	EXP 	FiveSec: autoDraw = False
+86.0082 	EXP 	Timer: autoDraw = False
+86.0082 	EXP 	image: autoDraw = False
+86.0082 	EXP 	Choice1: autoDraw = False
+86.0082 	EXP 	Choice2: autoDraw = False
+86.0082 	EXP 	Choice3: autoDraw = False
+86.0082 	EXP 	Choice4: autoDraw = False
+86.0082 	EXP 	Chosen: autoDraw = False
+86.0082 	EXP 	YourChoice: autoDraw = False
+86.0082 	EXP 	twentysec: autoDraw = False
+86.0082 	EXP 	FifteenSec: autoDraw = False
+86.0082 	EXP 	TenSec: autoDraw = False
+86.0082 	EXP 	FiveSec: autoDraw = False
+86.0082 	EXP 	Timer: autoDraw = False
+86.0082 	EXP 	Question: autoDraw = True
+86.0082 	EXP 	scale: autoDraw = True
+87.6029 	DATA 	Keypress: 2
+87.6601 	EXP 	Question: autoDraw = False
+87.6601 	EXP 	scale: autoDraw = False
+87.6601 	EXP 	Wait3: autoDraw = True
+90.6410 	EXP 	New trial (rep=0, index=2): OrderedDict([(u'pic', u'eyes5.png'), (u'sound', u'heart120_1.wav'), (u'c1', u'irritated'), (u'c2', u'sarcastic'), (u'c3', u'worried'), (u'c4', u'friendly'), (u'answerNum', 3), (u'answer', u'worried'), (u'marker', u"120'")])
+90.7425 	EXP 	Wait3: autoDraw = False
+90.7425 	EXP 	image: image = u'eyes5.png'
+90.7425 	EXP 	Choice1: text = u'1.irritated'
+90.7425 	EXP 	Choice2: text = u'2.sarcastic'
+90.7425 	EXP 	Choice3: text = u'3.worried'
+90.7425 	EXP 	Choice4: text = u'4.friendly'
+90.7425 	EXP 	image: autoDraw = True
+90.7425 	EXP 	Choice1: autoDraw = True
+90.7425 	EXP 	Choice2: autoDraw = True
+90.7425 	EXP 	Choice3: autoDraw = True
+90.7425 	EXP 	Choice4: autoDraw = True
+90.7425 	EXP 	Chosen: autoDraw = True
+90.7425 	EXP 	YourChoice: autoDraw = True
+90.7425 	EXP 	twentysec: autoDraw = True
+90.7425 	EXP 	Timer: autoDraw = True
+91.5428 	DATA 	Keypress: 2
+95.6566 	EXP 	twentysec: autoDraw = False
+95.6733 	EXP 	FifteenSec: autoDraw = True
+100.6574 	EXP 	FifteenSec: autoDraw = False
+100.6743 	EXP 	TenSec: autoDraw = True
+105.6582 	EXP 	TenSec: autoDraw = False
+105.6744 	EXP 	FiveSec: autoDraw = True
+109.5422 	DATA 	Keypress: 1
+110.6579 	EXP 	image: autoDraw = False
+110.6579 	EXP 	Choice1: autoDraw = False
+110.6579 	EXP 	Choice2: autoDraw = False
+110.6579 	EXP 	Choice3: autoDraw = False
+110.6579 	EXP 	Choice4: autoDraw = False
+110.6579 	EXP 	Chosen: autoDraw = False
+110.6579 	EXP 	YourChoice: autoDraw = False
+110.6579 	EXP 	twentysec: autoDraw = False
+110.6579 	EXP 	FifteenSec: autoDraw = False
+110.6579 	EXP 	TenSec: autoDraw = False
+110.6579 	EXP 	FiveSec: autoDraw = False
+110.6579 	EXP 	Timer: autoDraw = False
+110.6579 	EXP 	Question: autoDraw = True
+110.6579 	EXP 	scale: autoDraw = True
+111.2420 	DATA 	Keypress: 1
+111.2578 	EXP 	Question: autoDraw = False
+111.2578 	EXP 	scale: autoDraw = False
+111.2578 	EXP 	Wait3: autoDraw = True
+114.2411 	EXP 	New trial (rep=0, index=3): OrderedDict([(u'pic', u'eyes6.png'), (u'sound', u'heart60_2.wav'), (u'c1', u'aghast'), (u'c2', u'fantasizing'), (u'c3', u'impatient'), (u'c4', u'alarmed'), (u'answerNum', 2), (u'answer', u'fantasizing'), (u'marker', u"60'")])
+114.3266 	EXP 	Wait3: autoDraw = False
+114.3266 	EXP 	Wait3: autoDraw = False
+114.3266 	EXP 	image: image = u'eyes6.png'
+114.3266 	EXP 	Choice1: text = u'1.aghast'
+114.3266 	EXP 	Choice2: text = u'2.fantasizing'
+114.3266 	EXP 	Choice3: text = u'3.impatient'
+114.3266 	EXP 	Choice4: text = u'4.alarmed'
+114.3266 	EXP 	image: autoDraw = True
+114.3266 	EXP 	Choice1: autoDraw = True
+114.3266 	EXP 	Choice2: autoDraw = True
+114.3266 	EXP 	Choice3: autoDraw = True
+114.3266 	EXP 	Choice4: autoDraw = True
+114.3266 	EXP 	Chosen: autoDraw = True
+114.3266 	EXP 	YourChoice: autoDraw = True
+114.3266 	EXP 	twentysec: autoDraw = True
+114.3266 	EXP 	Timer: autoDraw = True
+119.2567 	EXP 	twentysec: autoDraw = False
+119.2731 	EXP 	FifteenSec: autoDraw = True
+124.2576 	EXP 	FifteenSec: autoDraw = False
+124.2748 	EXP 	TenSec: autoDraw = True
+129.2564 	EXP 	TenSec: autoDraw = False
+129.2733 	EXP 	FiveSec: autoDraw = True
+134.2570 	EXP 	image: autoDraw = False
+134.2570 	EXP 	Choice1: autoDraw = False
+134.2570 	EXP 	Choice2: autoDraw = False
+134.2570 	EXP 	Choice3: autoDraw = False
+134.2570 	EXP 	Choice4: autoDraw = False
+134.2570 	EXP 	Chosen: autoDraw = False
+134.2570 	EXP 	YourChoice: autoDraw = False
+134.2570 	EXP 	FiveSec: autoDraw = False
+134.2570 	EXP 	Timer: autoDraw = False
+134.2570 	EXP 	image: autoDraw = False
+134.2570 	EXP 	Choice1: autoDraw = False
+134.2570 	EXP 	Choice2: autoDraw = False
+134.2570 	EXP 	Choice3: autoDraw = False
+134.2570 	EXP 	Choice4: autoDraw = False
+134.2570 	EXP 	Chosen: autoDraw = False
+134.2570 	EXP 	YourChoice: autoDraw = False
+134.2570 	EXP 	twentysec: autoDraw = False
+134.2570 	EXP 	FifteenSec: autoDraw = False
+134.2570 	EXP 	TenSec: autoDraw = False
+134.2570 	EXP 	FiveSec: autoDraw = False
+134.2570 	EXP 	Timer: autoDraw = False
+134.2570 	EXP 	Question: autoDraw = True
+134.2570 	EXP 	scale: autoDraw = True
+134.4920 	DATA 	Keypress: 2
+134.7621 	EXP 	window1: mouseVisible = True

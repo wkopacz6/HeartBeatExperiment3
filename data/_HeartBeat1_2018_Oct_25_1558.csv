@@ -1,0 +1,5 @@
+Sound,marker,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,intro.keys,intro.rt,EndKey.keys,EndKey.rt,date,frameRate,expName,session,participant,
+,,,,,,space,1.43774414062,,,2018_Oct_25_1558,60.3361547624,HeartBeat1,001,,
+heart120.wav,120,0,0,0,0,,,,,2018_Oct_25_1558,60.3361547624,HeartBeat1,001,,
+heart60.wav,60,0,1,1,1,,,,,2018_Oct_25_1558,60.3361547624,HeartBeat1,001,,
+,,,,,,,,space,14.2492880821,2018_Oct_25_1558,60.3361547624,HeartBeat1,001,,

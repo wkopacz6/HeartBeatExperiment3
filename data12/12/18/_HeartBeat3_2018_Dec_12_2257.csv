@@ -1,0 +1,7 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,trialsListen.thisRepN,trialsListen.thisTrialN,trialsListen.thisN,trialsListen.thisIndex,intro.keys,intro.rt,Answer1.keys,IsCorrect,Answer1.rt,rating.response,rating.rt,date,frameRate,expName,session,participant,
+,,,,,,,,,,,,space,0.899402856827,,,,,,2018_Dec_12_2257,60.1312354396,HeartBeat3,001,,
+blank.png,heart120_1.wav,pensive,irritated,excited,hostile,1,pensive,0,0,0,23,,,4,False,1.41494107246,2,8.5,2018_Dec_12_2257,60.1312354396,HeartBeat3,001,,
+blank.png,heart120_1.wav,contented,apologetic,defiant,curious,3,defiant,0,1,1,22,,,3,True,1.13451099396,4,1.914,2018_Dec_12_2257,60.1312354396,HeartBeat3,001,,
+blank.png,heart120_1.wav,ashamed,confident,joking,dispirited,2,confident,0,2,2,30,,,3,False,1.00233793259,4,1.879,2018_Dec_12_2257,60.1312354396,HeartBeat3,001,,
+blank.png,heart120_1.wav,preoccupied,grateful,insisting,implorign,1,preoccupied,0,3,3,21,,,3,False,3.19876503944,4,2.532,2018_Dec_12_2257,60.1312354396,HeartBeat3,001,,
+blank.png,heart120_1.wav,alarmed,shy,hostile,anxious,3,hostile,0,4,4,25,,,4,False,1.36664295197,4,1.164,2018_Dec_12_2257,60.1312354396,HeartBeat3,001,,

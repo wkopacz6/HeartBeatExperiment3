@@ -1,0 +1,8 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,intro.keys,intro.rt,Answer1.keys,IsCorrect,Answer1.rt,rating.response,rating.rt,date,frameRate,expName,session,participant,
+,,,,,,,,,,,,space,0.743215084076,,,,,,2018_Dec_13_0057,60.1985518375,HeartBeat3,001,,
+eyes35.png,40bpm,puzzled,nervous,insisting,contemplative,2,contemplative,0,0,0,70,,,1,False,1.0952539444,2,1.714,2018_Dec_13_0057,60.1985518375,HeartBeat3,001,,
+eyes30.png,silence,grateful,flirtatious,hostile,disapointed,2,flirtatious,0,1,1,101,,,4,True,5.67745995522,4,2.508,2018_Dec_13_0057,60.1985518375,HeartBeat3,001,,
+eyes12.png,silence,indifferent,embasassed,skeptical,dispirited,3,skeptical,0,2,2,83,,,4,False,6.8655269146,5,2.008,2018_Dec_13_0057,60.1985518375,HeartBeat3,001,,
+eyes26.png,silence,alarmed,shy,hostile,anxious,3,hostile,0,3,3,97,,,3,False,12.9812560081,4,1.612,2018_Dec_13_0057,60.1985518375,HeartBeat3,001,,
+eyes6.png,silence,aghast,fantasizing,impatient,alarmed,2,fantasizing,0,4,4,77,,,4,True,3.576608181,5,1.344,2018_Dec_13_0057,60.1985518375,HeartBeat3,001,,
+eyes1.png,120bpm,playful,comforting,irritated,bored,1,playful,0,5,5,0,,,4,True,3.13077902794,5,1.075,2018_Dec_13_0057,60.1985518375,HeartBeat3,001,,

@@ -1,0 +1,4 @@
+pic,sound,c1,c2,c3,c4,answerNum,answer,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,intro.keys,intro.rt,Answer1.keys,Answer1.rt,rating.response,rating.rt,date,frameRate,expName,session,participant,
+,,,,,,,,,,,,space,0.670571088791,,,,,2018_Dec_13_0038,59.9538300345,HeartBeat3,001,,
+eyes21.png,silence,embarassed ,fantasizing,confused,panicked ,2,fantasizing,0,0,0,92,,,2,0.59995007515,4,2.271,2018_Dec_13_0038,59.9538300345,HeartBeat3,001,,
+eyes11.png,silence,terrified,amused,regretful,flirtatious,3,regretful,0,1,1,82,,,3,0.949700117111,3,3.391,2018_Dec_13_0038,59.9538300345,HeartBeat3,001,,
